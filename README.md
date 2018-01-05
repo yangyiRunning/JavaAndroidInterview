@@ -1,3 +1,6 @@
-# My Awesome Book
+## CS学科豆知识
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* [synchronized和CAS的比较](/synchronized和CAS的比较)
+
+
+

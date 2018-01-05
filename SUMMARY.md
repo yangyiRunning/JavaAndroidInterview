@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [CAS和synchronized的比较](cashe-synchronized-de-bi-jiao.md)
+* [synchronized和CAS的比较](cashe-synchronized-de-bi-jiao.md)
 
