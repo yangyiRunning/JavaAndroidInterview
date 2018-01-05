@@ -1,6 +1,6 @@
 ## CS学科豆知识
 
-* [https://github.com/yangyiRunning/Bits-of-knowledge/blob/master/cashe-synchronized-de-bi-jiao.md](https://github.com/yangyiRunning/Bits-of-knowledge/blob/master/cashe-synchronized-de-bi-jiao.md)
+* [synchronized和CAS的比较](/cashe-synchronized-de-bi-jiao.md)
 
 
 
