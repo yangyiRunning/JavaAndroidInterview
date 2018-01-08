@@ -13,6 +13,15 @@
 |  |  | 3. **ABA问题。** 值从A-&gt;B-&gt;A |
 | **改进** |  | 真正要做到严谨的CAS机制，我们在Compare阶段不仅要比较期望值A和地址V中的实际值，还要比较变量的版本号是否一致。（**核心的思想就是以前只get到当前值和内存地址中的值去比较，如果相等就就把新的修改值替换旧的期望值。只比较内存地址中的值。而现在在之前的基础上加了一个条件，比较版本号，只有内存中的值和get到的当前值相等且版本号也相等时才替换，条件变多了，更为严谨了。**） |
 
+1. **Java语言CAS底层如何实现？**
+利用unsafe提供了原子性操作方法。
+
+2. **什么是ABA问题？怎么解决？**
+当一个值从A更新成B，又更新会A，普通CAS机制会误判通过检测。
+利用版本号比较可以有效解决ABA问题。
+
+----
+
 _**原文链接**_：
 
 * [https://mp.weixin.qq.com/s?\_\_biz=MzIxMjE5MTE1Nw==∣=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21#wechat_redirect)
