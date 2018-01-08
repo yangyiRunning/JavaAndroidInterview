@@ -12,11 +12,13 @@
 | 会让没有得到锁资源的线程进入被**阻塞状态**，在争夺到锁资源之后会变为**可运行状态**， 这个过程中涉及到操作系统**用户模式**和**内核模式**的转换，**代价比较高。** | 1.  **CPU开销大。  **在并发量很大，多个线程一直尝试更新某一个变量时，却又屡次更新不成功，这种情况下会造成CPU巨大的耗损。 |
 |  | 2.   **不能保证代码块的原子性。  **只能保证某一个变量的原子性，如果想要保证多个变量的原子性就不好使了，需要动用同步锁。 |
 |  | 3. **ABA问题。 ** |
-
+|  |  真正要做到严谨的CAS机制，我们在Compare阶段不仅要比较期望值A和地址V中的实际值，还要比较变量的版本号是否一致。|
 
 _**原文链接**_：
-- [https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21#wechat_redirect](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21#wechat_redirect)
 
-- [https://mp.weixin.qq.com/s/nRnQKhiSUrDKu3mz3vItWg](https://mp.weixin.qq.com/s/nRnQKhiSUrDKu3mz3vItWg)
+* [https://mp.weixin.qq.com/s?\_\_biz=MzIxMjE5MTE1Nw==∣=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192625&idx=1&sn=cbabbd806e4874e8793332724ca9d454&chksm=8c99f36bbbee7a7d169581dedbe09658d0b0edb62d2cbc9ba4c40f706cb678c7d8c768afb666&scene=21#wechat_redirect)
+
+* [https://mp.weixin.qq.com/s/nRnQKhiSUrDKu3mz3vItWg](https://mp.weixin.qq.com/s/nRnQKhiSUrDKu3mz3vItWg)
+
 
 
