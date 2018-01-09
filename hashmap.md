@@ -18,4 +18,6 @@
   1. HashMap不是线程安全的。在高并发环境下做插入操作，有可能出现下面的环形链表
   2. 二级哈希表
   3. 主干为Segment[]，Segment本身就相当于一个HashMap对象，同HashMap一样，Segment包含一个HashEntry数组，数组中的每一个HashEntry既是一个键值对，也是一个链表的头节点
-  4. **锁分段技术**：每一个Segment就相当于一个高度自治的特区，能够高度自主的进行读写操作
+  4. **锁分段技术**：每一个Segment就相当于一个高度自治的特区，能够高度自主的进行读写操作，Segment和Segment之间互不影响
+  5. ConcurrentHashMap当中每个Segment各自持有一把锁。在保证线程安全的同时降低了锁的粒度，让并发操作效率更高
+  6. 
