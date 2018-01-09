@@ -11,3 +11,4 @@
 - [高并发下的HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192000&idx=1&sn=118cee6d1c67e7b8e4f762af3e61643e&chksm=8c990d9abbee848c739aeaf25893ae4382eca90642f65fc9b8eb76d58d6e7adebe65da03f80d&scene=21#wechat_redirect)
   1. HashMap在插入元素过多的时候需要进行Resize，Resize的条件是**HashMap.Size >= Capacity * LoadFactor**。
   2. HashMap的Resize包含**扩容**和**ReHash**两个步骤，ReHash在并发的情况下可能会形成链表环。
+  3. 扩容与否的衡量标准是**主干（即Entry[]）**的长度是否达到给定长度的0.75
