@@ -23,7 +23,7 @@
   6. 都需要二次定位
     - hash一次定位到Segment[]当中的具体index对应的Segment，Segment对象中为HashEntry[]
     - 再hash一次定位到HashEntry[]中具体的index对应的具体Entry对象
-  7. 
+  7. size方法统计哈希表中的元素个数是采用了**先乐观锁后悲观锁**的设计思想
 
 **注意：对于以上的哈希表，size方法是获取当中的元素个数，也就是键值对对象的个数**
 
