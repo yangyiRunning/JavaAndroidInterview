@@ -4,6 +4,9 @@
   3. HashMap中hash函数的设计，不同于直接取模运算，而是采用位运算的方式，效果同样为取模，但是性能更好
   4. HashMap的默认长度为16，设置HashMap的长度时一般设置为2的幂次，因为如果设置为10的话有些index会高频亮相，但是有些index却取不到，违反了hash函数要均匀分布的设计初衷
   5. HashMap为保存键值对的数据结构，每一个键值对也叫做Entry
+  6. HashMap数组的每一个元素不止是一个Entry对象，也是一个链表的头节点
+  7. 设想中的index计算方法（取模运算）：index =  HashCode（Key） % Length
+  8. 实际中的index计算方法（位运算）：index =  HashCode（Key） &  （Length - 1） （**Hash算法最终得到的index结果，完全取决于Key的Hashcode值的最后几位。**）
   
 - [高并发下的HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192000&idx=1&sn=118cee6d1c67e7b8e4f762af3e61643e&chksm=8c990d9abbee848c739aeaf25893ae4382eca90642f65fc9b8eb76d58d6e7adebe65da03f80d&scene=21#wechat_redirect)
   1. 
