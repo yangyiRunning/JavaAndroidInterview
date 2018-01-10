@@ -5,4 +5,5 @@
 * [泛型](fan-xing.md)
 * [HashMap](hashmap.md)
 * [volatile](volatileguan-jian-zi.md)
+* [一致性哈希](yi-zhi-xing-ha-xi.md)
 

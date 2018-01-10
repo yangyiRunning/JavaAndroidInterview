@@ -4,3 +4,4 @@
 - [泛型](/fan-xing.md)
 - [HashMap](/hashmap.md)
 - [volatile关键字](/volatileguan-jian-zi.md)
+- [一致性哈希](/yi-zhi-xing-ha-xi.md)
