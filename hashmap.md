@@ -24,7 +24,14 @@
     - hash一次定位到Segment[]当中的具体index对应的Segment，Segment对象中为HashEntry[]
     - 再hash一次定位到HashEntry[]中具体的index对应的具体Entry对象
  7. size方法统计哈希表中的总元素数量是采用了**先乐观锁后悲观锁**的设计思想
- 8. ConcurrentHashMap的Put方法和Get方法相比，多了两个步骤，**获取重用锁**和**释放锁**
+ 8. ConcurrentHashMap的Put方法和Get方法相比，多了两个步骤，**获取重用锁**和**释放锁**，具体的Put的方法的逻辑如下：
+    - 为输入的Key做Hash运算，得到hash值
+    - 通过hash值，定位到对应的Segment对象
+    - 获取可重入锁
+    - 再次通过hash值，定位到Segment当中数组的具体位置
+    - 插入或覆盖HashEntry对象。
+    - 释放锁
+    
 
 **注意：对于以上的哈希表，size方法是获取当中的元素个数，也就是键值对对象的个数**
 
