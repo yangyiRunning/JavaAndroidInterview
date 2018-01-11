@@ -3,6 +3,7 @@
  2. 类型擦除
  3. 类型擦除后的补偿：工厂设计模式和模板设计模式
 - [泛型与数组](https://segmentfault.com/a/1190000005179147)
+ 1. 成功创建泛型数组的唯一方式是创建一个类型擦除的数组，然后转型，如代码： gia = (Generic<Integer>[])new Generic[SIZE]。
 - [通配符的使用](https://segmentfault.com/a/1190000005337789)
 
 
