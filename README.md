@@ -10,4 +10,4 @@
 - [一致性哈希](/yi-zhi-xing-ha-xi.md)
 - [如何判断链表有环](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189798&idx=1&sn=c35c259d0a4a26a2ee6205ad90d0b2e1&chksm=8c99047cbbee8d6a452fbb171133551553a825c83fb8b0cc66210dcda842c61157a07baaeb6b&scene=21#wechat_redirect)
 - [判断2的乘方](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190199&idx=1&sn=3d22e6bc95b66635dd6a36c5900ac401&chksm=8c990aedbbee83fb2ddbbc6f2ff932f2a1358b9882e42a142f80a60f6afd8373d495d07046e3&scene=21#wechat_redirect)
-- [找出缺失的整数](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189951&idx=1&sn=0181c95484b67d108672235b14e5ebbb&chksm=8c9905e5bbee8cf3362ccc4c7e091caa18b5783183ce4475b6f011c09c1cb03847ea4cb5220c&scene=21#wechat_redirect)
+- [找出缺失的整数](/zhao-chu-que-shi-de-zheng-shu.md)
