@@ -7,4 +7,5 @@
 * [volatile](volatileguan-jian-zi.md)
 * [一致性哈希](yi-zhi-xing-ha-xi.md)
 * [找出缺失的整数](zhao-chu-que-shi-de-zheng-shu.md)
+* [平衡树](ping-heng-shu.md)
 
