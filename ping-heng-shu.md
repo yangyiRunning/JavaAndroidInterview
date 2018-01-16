@@ -5,7 +5,7 @@
 3. B树在查询中的比较次数其实不比BST少，尤其是当单一节点中的元素数量很多时，但相比磁盘IO操作，内存中的比较还是快很多的，内存比较的耗时很短
 4. B树主要应用在文件系统和部分数据库的索引（MongoDB）
 
-### [B+树](https://mp.weixin.qq.com/s/rDCEFzoKHIjyHfI_bsz5Rw)
+### [B+树](http://mp.weixin.qq.com/s/rDCEFzoKHIjyHfI_bsz5Rw)
 
 1. 每一个父节点的元素都出现在子节点中，是子节点的最大（或者最小）元素
 2. **所有父节点的元素都出现在子节点，因此所有叶子节点包含了全量元素信息**
