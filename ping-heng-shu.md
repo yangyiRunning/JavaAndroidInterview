@@ -6,3 +6,5 @@
 4. B树主要应用在文件系统和部分数据库的索引（MongoDB）
 
 ### [B+树](https://mp.weixin.qq.com/s/rDCEFzoKHIjyHfI_bsz5Rw)
+
+1. 每一个父节点的元素都出现在子节点中，是子节点的最大元素
