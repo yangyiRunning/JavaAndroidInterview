@@ -10,3 +10,25 @@
  3. 每当新元素进入栈A时，比较新元素和栈A当前最小值的大小，如果小于栈A当前最小值，则让新元素的下标进入栈B，此时栈B的栈顶元素就是栈A当前最小值的下标
  4. 每当栈A有元素出栈时，如果出栈元素是栈A当前最小值，则让栈B的栈顶元素也出栈。此时栈B余下的栈顶元素所指向的，是栈A当中原本第二小的元素，代替刚才的出栈元素成为了栈A的当前最小值。（备胎转正）
  5. 当调用getMin方法的时候，直接返回栈B的栈顶所指向的栈A对应元素即可。
+ 
+- **示意图**
+
+1. **step 1:**
+
+![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyNpVLWokqJauJr1Plw9b4sytic5hb6ic82AZykUHDhkVxpGIzv3OwIhPQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+
+2. **step 2:**
+
+![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwysQFsGqZxceEPd4HrNzzOWqDbjpoHNw4WrNItJO07HRWOk9AQCucASg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+
+3. **step 3:**
+
+![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwydeDac48W4V4mtEUtOViacl44u5jgBiaE0vV1AOnHJy0tE3pufvpVDzGA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+
+4. **step 4:**
+
+![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyp1ValVvej68aiaHl9VeJWtZjQQdN7XP5LZ0b28BPZ7ItwfvCuQM27ibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+
+5 **step 5:**
+
+![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyrWiblGWeCib50UGLcXoMpejVHU2KvLd4wxnlwgThKv7DdsakckQJUxJw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
