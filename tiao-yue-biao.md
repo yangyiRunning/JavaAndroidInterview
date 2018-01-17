@@ -19,24 +19,24 @@
 
 **升迁和降级的索引示意图:**
 
-1. step 1：
+1. **step 1：**
 
 ![升迁和降级的索引示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwf9zekAX4esYgYibMFTzqvlIOgIex98YkZRuBYAfgZG0Q1qyqNu8p0icWQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-2. step 2：
+2. **step 2：**
 
 ![升迁和降级的索引示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwf2F7zDyiaejrsVtd0OQWeiaDnmSRGwZy6XU5z6dic6k4QA4LANpBMWeicFA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-3. step 3：
+3. **step 3：**
 
 ![升迁和降级的索引示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfzh7ltXXV7WeIWpIcibdaYgfricOg3ibh6O40BjvwyFpWefX90VVOHLmibQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 **删除节点示意图**
 
-1. step 1:
+1. **step 1:**
 
 ![删除节点示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfgg9AxvKxRdcicQ0VA3efzEGK6cHGiayYzbOzULbv2eo9S0sMZPEtOudw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-2. step 2:
+2. **step 2:**
 
 ![删除节点示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfXfNSWIcepFbJt97FiaEf4qicaSbVqD4iaCVz7smiatYf7DCWVNj7SdyzIw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
