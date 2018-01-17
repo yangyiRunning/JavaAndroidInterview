@@ -20,3 +20,4 @@
 ## 数据结构
 
 - [平衡树](/ping-heng-shu.md)
+- [跳跃表](/tiao-yue-biao.md)

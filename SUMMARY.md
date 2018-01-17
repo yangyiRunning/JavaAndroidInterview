@@ -9,4 +9,5 @@
 * [找出缺失的整数](zhao-chu-que-shi-de-zheng-shu.md)
 * [平衡树](ping-heng-shu.md)
 * [最小栈](zui-xiao-zhan.md)
+* [跳跃表](tiao-yue-biao.md)
 
