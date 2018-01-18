@@ -1,5 +1,6 @@
 ## Java豆知识
 
+- [Java学习路线图](/javaxue-xi-lu-xian-tu.md)
 - [synchronized和CAS的比较](/cashe-synchronized-de-bi-jiao.md)
 - [泛型](/fan-xing.md)
 - [HashMap](/hashmap.md)
