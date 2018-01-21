@@ -15,7 +15,7 @@
 
 **层层索引示意图:**
 
-![层层索引示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfv9q24hhXCO2AKkh7D502TeFfRb1hR0fE01VsGxrZKYvmmL0Wud4cjw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![层层索引示意图](/assets/微信图片_20180121174141.png)
 
 **升迁和降级的索引示意图:**
 
