@@ -25,7 +25,7 @@
 
 2. **step 2：**
 
-![升迁和降级的索引示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwf2F7zDyiaejrsVtd0OQWeiaDnmSRGwZy6XU5z6dic6k4QA4LANpBMWeicFA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![升迁和降级的索引示意图](/assets/微信图片_20180121174322.png)
 
 3. **step 3：**
 
