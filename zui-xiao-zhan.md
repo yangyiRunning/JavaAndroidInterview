@@ -15,7 +15,7 @@
 
 1. **step 1:**
 
-![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyNpVLWokqJauJr1Plw9b4sytic5hb6ic82AZykUHDhkVxpGIzv3OwIhPQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+![](/assets/微信图片_20180121173554.png)
 
 2. **step 2:**
 
