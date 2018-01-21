@@ -23,12 +23,12 @@
 
 3. **step 3:**
 
-![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwydeDac48W4V4mtEUtOViacl44u5jgBiaE0vV1AOnHJy0tE3pufvpVDzGA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+![](/assets/微信图片_20180121173756.png)
 
 4. **step 4:**
 
-![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyp1ValVvej68aiaHl9VeJWtZjQQdN7XP5LZ0b28BPZ7ItwfvCuQM27ibw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+![](/assets/微信图片_20180121173842.png)
 
 5 **step 5:**
 
-![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwyrWiblGWeCib50UGLcXoMpejVHU2KvLd4wxnlwgThKv7DdsakckQJUxJw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/微信图片_20180121173918.png)
