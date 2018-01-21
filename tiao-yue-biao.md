@@ -37,6 +37,8 @@
 
 ![删除节点示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfgg9AxvKxRdcicQ0VA3efzEGK6cHGiayYzbOzULbv2eo9S0sMZPEtOudw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
+![](/assets/微信图片_20180121174517.png)
+
 2. **step 2:**
 
 ![删除节点示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGo9orh8G0mUYvictrpL6OCwfXfNSWIcepFbJt97FiaEf4qicaSbVqD4iaCVz7smiatYf7DCWVNj7SdyzIw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
