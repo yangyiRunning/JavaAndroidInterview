@@ -19,7 +19,7 @@
 
 2. **step 2:**
 
-![示意图](http://mmbiz.qpic.cn/mmbiz_jpg/NtO5sialJZGqqAkib6l1rnfaLdWLPSjlwysQFsGqZxceEPd4HrNzzOWqDbjpoHNw4WrNItJO07HRWOk9AQCucASg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1) 
+![](/assets/微信图片_20180121173555.png)
 
 3. **step 3:**
 
