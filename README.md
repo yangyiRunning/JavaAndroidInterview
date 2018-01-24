@@ -16,6 +16,7 @@
 ## Android
 
 - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
+- [混合开发之Android Java原生代码和JavaScript脚本代码互调总结]()
 
 ## 数据结构
 
