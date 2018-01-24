@@ -11,4 +11,5 @@
 * [最小栈](zui-xiao-zhan.md)
 * [跳跃表](tiao-yue-biao.md)
 * [Java学习路线图](javaxue-xi-lu-xian-tu.md)
+* [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 
