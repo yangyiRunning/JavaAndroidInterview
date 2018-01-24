@@ -12,4 +12,4 @@
 
 ---
 
-#### [文章详情链接](http://blog.csdn.net/carson_ho/article/details/64904691)
+#### [点击查看文章详情](http://blog.csdn.net/carson_ho/article/details/64904691)
