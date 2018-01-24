@@ -8,6 +8,6 @@
 
 - #### JS通过WebView调用 Android 代码
 
-![](/assets/944365-1385f748618af886.png)
+![JS通过WebView调用 Android 代码调用方式对比](/assets/944365-8c91481325a5253e.png)
 
 #### [文章详情链接](http://blog.csdn.net/carson_ho/article/details/64904691)
