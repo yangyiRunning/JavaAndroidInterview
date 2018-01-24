@@ -10,4 +10,4 @@
 
 ![](/assets/944365-1385f748618af886.png)
 
-#### [文章链接](http://blog.csdn.net/carson_ho/article/details/64904691)
+#### [文章详情链接](http://blog.csdn.net/carson_ho/article/details/64904691)
