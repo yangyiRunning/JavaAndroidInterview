@@ -10,5 +10,14 @@ Object obj = new Object()，实例化了一个Object对象。
 
 ![](/assets/3021516984164_.pic_hd.jpg)
 
+ 但是在Java中它直接利用的是对象保存的模式，而堆内存中不需要再保存句柄，而是直接保存的对象，这样就省略了一步句柄到对象之间的查找，而这个是对象可以直接进行Java方法区的调用
+ 
+![](/assets/3031516984608_.pic_hd.jpg)
+
+- 在实际上有三种JVM
+  1. SUN公司最早改良的HotSpot
+  2. BEA公司的JRockit
+  3. IBM JVM'S
+
 
 
