@@ -13,4 +13,5 @@
 * [Java学习路线图](javaxue-xi-lu-xian-tu.md)
 * [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 * [Java内存模型](javanei-cun-mo-xing.md)
+* [Java对象访问模式](javadui-xiang-fang-wen-mo-shi.md)
 

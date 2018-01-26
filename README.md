@@ -27,6 +27,8 @@
 
 - [Java内存模型](/javanei-cun-mo-xing.md)
 
+- [Java对象访问模式](/javadui-xiang-fang-wen-mo-shi.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 
