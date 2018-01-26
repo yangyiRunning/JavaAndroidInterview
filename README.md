@@ -25,7 +25,7 @@
 
 ## JVM
 
-- [Java内存模型](/javanei-cun-mo-xing.md)
+- [Java运行流程](/javanei-cun-mo-xing.md)
 
 - [Java对象访问模式](/javadui-xiang-fang-wen-mo-shi.md)
 
