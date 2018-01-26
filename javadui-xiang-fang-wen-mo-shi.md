@@ -18,6 +18,14 @@ Object obj = new Object()，实例化了一个Object对象。
   1. SUN公司最早改良的HotSpot
   2. BEA公司的JRockit
   3. IBM JVM'S
+  
+- 取得当前JVM的版本号
+` java -version
+java version "1.8.0_121"
+Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode) `
+
+
 
 
 
