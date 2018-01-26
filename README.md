@@ -25,6 +25,8 @@
 
 ## JVM
 
+- [Java内存模型](/javanei-cun-mo-xing.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 
