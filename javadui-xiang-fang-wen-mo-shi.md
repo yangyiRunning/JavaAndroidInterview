@@ -23,9 +23,15 @@ Object obj = new Object()，实例化了一个Object对象。
 ` java -version
 java version "1.8.0_121"
 Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
-Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode) `
+Java **HotSpot**(TM) 64-Bit Server VM (build 25.121-b13, **mixed mode**) `
 
+所谓的混合模式就是指适合于编译和执行。
 
+- 使用纯解释模式启动
 
+` java -Xint -version
+java version "1.8.0_121"
+Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, **interpreted mode**) `
 
 
