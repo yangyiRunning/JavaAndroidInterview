@@ -29,6 +29,8 @@
 
 - [Java对象访问模式](/javadui-xiang-fang-wen-mo-shi.md)
 
+- [JVM垃圾收集（Java堆内存模型）](/jvmla-ji-shou-ji-ff08-java-dui-nei-cun-mo-xing-ff09.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 
