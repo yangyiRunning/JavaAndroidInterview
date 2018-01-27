@@ -20,6 +20,10 @@ java -Xmx16G -Xms16G TestDemo
 
 ![](/assets/3121517052101_.pic_hd.jpg)
 
+![](/assets/3131517052300_.pic_hd.jpg)
+
+![](/assets/3151517052436_.pic_hd.jpg)
+
 如果在日后的开发之中你发现你的程序执行速度变慢，那么就需要对程序的内存进行分析：
 
 - 可视化工具： JDK的安装路径下bin下的jvisualvm
