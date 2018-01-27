@@ -43,6 +43,8 @@
 
  - [老年代](/jvmjvm-la-ji-shou-ji-ff08-lao-nian-dai-ff09.md)
 
+ - [永久代](/jvmjvm-la-ji-shou-ji-ff08-yong-jiu-dai-ff09.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 
