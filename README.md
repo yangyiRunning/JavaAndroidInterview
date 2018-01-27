@@ -33,6 +33,8 @@
 
 - [JVM垃圾收集（Java垃圾回收流程）](/jvmla-ji-shou-ji-ff08-java-la-ji-hui-shou-liu-cheng-ff09.md)
 
+- [JVM垃圾收集（Java堆内存调整参数）](/jvmla-ji-shou-ji-ff08-java-dui-nei-cun-diao-zheng-can-shu-ff09.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 

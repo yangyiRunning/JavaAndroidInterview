@@ -16,4 +16,5 @@
 * [Java对象访问模式](javadui-xiang-fang-wen-mo-shi.md)
 * [JVM垃圾收集（Java堆内存模型）](jvmla-ji-shou-ji-ff08-java-dui-nei-cun-mo-xing-ff09.md)
 * [JVM垃圾收集（Java垃圾回收流程）](jvmla-ji-shou-ji-ff08-java-la-ji-hui-shou-liu-cheng-ff09.md)
+* [JVM垃圾收集（Java堆内存调整参数）](jvmla-ji-shou-ji-ff08-java-dui-nei-cun-diao-zheng-can-shu-ff09.md)
 
