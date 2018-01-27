@@ -44,6 +44,8 @@
  - [老年代](/jvmjvm-la-ji-shou-ji-ff08-lao-nian-dai-ff09.md)
 
  - [永久代](/jvmjvm-la-ji-shou-ji-ff08-yong-jiu-dai-ff09.md)
+ 
+ - [元空间](/jvmjvm-la-ji-shou-ji-ff08-yuan-kong-jian-ff09.md)
 
 ---
 
