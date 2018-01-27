@@ -22,6 +22,9 @@ Object obj = new Object()，实例化了一个Object对象。
   3. IBM JVM'S
   
 - 取得当前JVM的版本号
+
+- 使用编译和解释混合模式启动
+
 ` java -version
 java version "1.8.0_121"
 Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
