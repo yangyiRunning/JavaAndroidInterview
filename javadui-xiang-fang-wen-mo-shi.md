@@ -49,7 +49,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, **compiled mode**) `
 
 JVM的启动有两种模式：
 
-1. ”-server“ ： 服务器模式，占用的内存大、启动速度慢
+1. ”-server“ ： 服务器模式，占用的内存大、启动速度慢  默认模式
 2. ”-client“ ： 本地单机运行程序模式，启动的速度快
 
 在jre中就可以看是哪种模式 jvm.cfg这个文件中就可以看当前的启动配置，现在Java的默认启动模式就是-server，jre的server文件夹下就保存的server方式启动的启动配置
