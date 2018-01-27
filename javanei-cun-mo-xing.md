@@ -1,3 +1,7 @@
+### 类加载器
+
+当JVM将所需要的 *.class文件加载到JVM的进程之中，这个过程就需要一个类加载器——ClassLoader。有类加载器的好处是：可以随意制定 *.class文件的所在路径
+
 ### Java程序执行流程
 
 ![Java程序执行流程](/assets/WechatIMG297.jpeg)
