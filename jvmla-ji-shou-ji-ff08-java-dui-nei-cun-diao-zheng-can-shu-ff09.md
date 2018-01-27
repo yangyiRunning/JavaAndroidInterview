@@ -30,5 +30,4 @@ java -Xmx16G -Xms16G TestDemo
 
 - 命令查看：jmap (jmap -heap PID)
 
-查看PID的方法：windows下用tasklist命令，linux下用ps命令。
-
+查看PID(**进程ID**)的方法：windows下用tasklist命令，linux下用ps命令。
