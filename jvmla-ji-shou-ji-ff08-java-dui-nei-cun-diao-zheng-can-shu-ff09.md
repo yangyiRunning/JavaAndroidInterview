@@ -23,3 +23,5 @@ java -Xmx16G -Xms16G TestDemo
 - 可视化工具： JDK的安装路径下bin下的jvisualvm
 
 - 命令查看：jmap (jmap -heap PID)
+
+查看PID的方法，windows下用tasklist命令，linux下用ps命令
