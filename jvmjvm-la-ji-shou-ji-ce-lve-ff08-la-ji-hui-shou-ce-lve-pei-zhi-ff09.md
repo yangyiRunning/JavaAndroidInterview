@@ -81,6 +81,10 @@ public class TestDemo {
 
 ![](/assets/3551517144628_.pic_hd.jpg)
 
+**PSYoungGen:**  并行GC
 
+**ParOldGen:** 并行GC
+
+从这个输出的信息可以看出，这个的结果和默认的结果是一致的，也就是说在多CPU的环境下默认启动的是并行GC。
 
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
