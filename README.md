@@ -25,13 +25,13 @@
 
 ## JVM
 
-### 1. JVM执行分析
+#### 1. JVM执行分析
 
  - [Java运行流程](/javanei-cun-mo-xing.md)
 
  - [Java对象访问模式](/javadui-xiang-fang-wen-mo-shi.md)
 
-### 2. JVM内存模型和垃圾收集
+#### 2. JVM内存模型和垃圾收集
 
  - [Java堆内存模型](/jvmla-ji-shou-ji-ff08-java-dui-nei-cun-mo-xing-ff09.md)
 
@@ -47,13 +47,13 @@
  
  - [元空间](/jvmjvm-la-ji-shou-ji-ff08-yuan-kong-jian-ff09.md)
  
-### 3. 垃圾收集策略
+#### 3. 垃圾收集策略
 
  - [垃圾回收策略概览](/jvmjvm-la-ji-shou-ji-ce-lve-ff08-la-ji-hui-shou-ce-lve-gai-lan-ff09.md)
  
  - [垃圾回收策略配置](/jvmjvm-la-ji-shou-ji-ce-lve-ff08-la-ji-hui-shou-ce-lve-pei-zhi-ff09.md)
 
-### 4. G1收集器
+#### 4. G1收集器
 
 - [G1收集器简介](/jvmg1-shou-ji-qi-ff08-g1-shou-ji-qi-jian-jie-ff09.md)
 
