@@ -35,9 +35,9 @@ public class TestDemo {
 
 2. 用javac TestDemo.java 命令编译该类
 
-3. 用java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo执行该类
+3. 用``` java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo执行该类 ```
 
-会输出下列信息：
+会在控制台输出下列结果：
 
 ![](/assets/3501517143334_.pic_hd.jpg)
 
