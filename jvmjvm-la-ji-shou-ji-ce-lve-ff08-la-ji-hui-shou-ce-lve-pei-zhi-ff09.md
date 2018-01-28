@@ -12,6 +12,25 @@
 
 下面首先来观察默认的GC策略：
 
+编写测试程序：
+
+
+
+```
+public class TestDemo {
+    public static void main(String[] args) {
+        String str = "www.google.com";
+        while (true) {
+            str += str + str;
+            str.intern();
+        }
+    }
+} 
+
+```
+
+
+
 创建TestDemo类：
 
 
