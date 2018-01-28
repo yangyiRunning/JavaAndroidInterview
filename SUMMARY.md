@@ -22,4 +22,5 @@
 * [JVM\_JVM垃圾收集（永久代）](jvmjvm-la-ji-shou-ji-ff08-yong-jiu-dai-ff09.md)
 * [JVM\_JVM垃圾收集（元空间）](jvmjvm-la-ji-shou-ji-ff08-yuan-kong-jian-ff09.md)
 * [JVM\_JVM垃圾收集策略（垃圾回收策略概览）](jvmjvm-la-ji-shou-ji-ce-lve-ff08-la-ji-hui-shou-ce-lve-gai-lan-ff09.md)
+* [JVM\_JVM垃圾收集策略（垃圾回收策略配置）](jvmjvm-la-ji-shou-ji-ce-lve-ff08-la-ji-hui-shou-ce-lve-pei-zhi-ff09.md)
 
