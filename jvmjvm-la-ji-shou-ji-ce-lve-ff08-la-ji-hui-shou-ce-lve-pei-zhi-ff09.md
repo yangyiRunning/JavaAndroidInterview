@@ -8,6 +8,10 @@
 
 并行操作的时候我们可以设置使用的CPU数量。
 
+举例： 设置完CPU数量之后可以通过
+
+` Runtime.getRuntime().availableProcessors() ` 查看
+
 下面首先来观察默认的GC策略：
 
 创建TestDemo类：
