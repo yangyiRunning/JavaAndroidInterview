@@ -10,7 +10,7 @@
 
 举例： 设置完CPU数量之后可以通过` Runtime.getRuntime().availableProcessors() ` 查看。
 
-下面首先来观察默认的GC策略：
+**下面首先来观察默认的GC策略：**
 
 编写测试程序：(创建TestDemo类)
 
@@ -46,5 +46,15 @@ public class TestDemo {
 ![](/assets/3511517143587_.pic_hd.jpg)
 
 现在可以发现年轻代使用的是并行回收策略，老年代使用的是并行GC策略。
+
+**使用串行回收策略设置：**
+
+执行下面命令行语句：
+
+``` java -Xmx10m -Xms10m -XX:+UseSerialGC -XX:+PrintGCDetails TestDemo ```
+
+会输出下列信息：
+
+![](/assets/3521517144108_.pic_hd.jpg)
 
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
