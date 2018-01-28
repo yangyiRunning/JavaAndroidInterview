@@ -89,6 +89,14 @@ public class TestDemo {
 
 #### **使用CMS回收：**
 
+执行下列语句：
+
+``` -Xmx10m -Xms10m -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails TestDemo```
+
+会输出以下信息：
+
+![](/assets/3561517145476_.pic_hd.jpg)
+
 
 
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
