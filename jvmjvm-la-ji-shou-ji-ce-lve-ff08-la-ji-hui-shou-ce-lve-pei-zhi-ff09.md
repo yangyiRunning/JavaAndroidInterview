@@ -12,9 +12,7 @@
 
 下面首先来观察默认的GC策略：
 
-编写测试程序：
-
-
+编写测试程序：(创建TestDemo类)
 
 ```
 
@@ -30,12 +28,13 @@ public class TestDemo {
  
  
 ```
+具体的操作步骤：
 
+1. 创建TestDemo类（代码如上图所示）
 
+2. 用javac TestDemo.java 命令编译该类
 
-创建TestDemo类：
-
-
+3. 用java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo
 
 执行如下命令行代码：
 
