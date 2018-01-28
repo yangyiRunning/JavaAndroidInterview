@@ -61,7 +61,9 @@ public class TestDemo {
 
 ![](/assets/3531517144264_.pic_hd.jpg)
 
-**DefNew**
+**DefNew：** 年轻代默认的GC
+
+**Tenured:** 老年代GC
 
 年轻代和老年代都是在单线程下执行。
 
