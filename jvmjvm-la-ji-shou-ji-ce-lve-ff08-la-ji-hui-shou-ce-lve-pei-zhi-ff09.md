@@ -35,7 +35,11 @@ public class TestDemo {
 
 2. 用javac TestDemo.java 命令编译该类
 
-3. 用java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo
+3. 用java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo执行该类
+
+会输出下列信息：
+
+
 
 执行如下命令行代码：
 
