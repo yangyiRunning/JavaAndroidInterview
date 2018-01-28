@@ -39,14 +39,6 @@ public class TestDemo {
 
 会输出下列信息：
 
-
-
-执行如下命令行代码：
-
-![](/assets/3461517109397_.pic.jpg)
-
-![](/assets/3471517109444_.pic_hd.jpg)
-
-![](/assets/3481517109704_.pic_hd.jpg)
+![](/assets/3501517143334_.pic_hd.jpg)
 
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
