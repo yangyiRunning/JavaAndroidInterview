@@ -73,6 +73,10 @@ public class TestDemo {
 
 ![](/assets/3541517144539_.pic_hd.jpg)
 
+注意输出信息中的这条记录：
+
+![](/assets/3551517144628_.pic_hd.jpg)
+
 
 
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
