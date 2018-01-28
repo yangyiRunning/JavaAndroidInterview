@@ -110,4 +110,3 @@ public class TestDemo {
 4种GC策略小结：
 
 ![](/assets/3591517148076_.pic_hd.jpg)
-
