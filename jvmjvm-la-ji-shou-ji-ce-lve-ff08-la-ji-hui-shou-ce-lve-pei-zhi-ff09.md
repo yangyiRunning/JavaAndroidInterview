@@ -57,4 +57,22 @@ public class TestDemo {
 
 ![](/assets/3521517144108_.pic_hd.jpg)
 
+注意信息中的这条记录：
+
+![](/assets/3531517144264_.pic_hd.jpg)
+
+年轻代和老年代都是在单线程下执行。
+
+**使用并行GC策略：**
+
+执行下列命令行语句：
+
+``` java -Xmx10m -Xms10m -XX:+UseParallelGC -XX:+PrintGCDetails TestDemo ```
+
+会输出以下信息：
+
+![](/assets/3541517144539_.pic_hd.jpg)
+
+
+
 现在可以发现年轻代并行回收策略，老年代使用的是并行GC策略。
