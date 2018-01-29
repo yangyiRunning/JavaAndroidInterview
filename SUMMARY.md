@@ -29,4 +29,5 @@
 * [JVM\_G1收集器（G1相关处理参数）](jvmg1-shou-ji-qi-ff08-g1-xiang-guan-chu-li-can-shu-ff09.md)
 * [JVM\_Java引用类型（引用类型划分）](jvmjava-yin-yong-lei-xing-ff08-yin-yong-lei-xing-hua-fen-ff09.md)
 * [JVM\_Java引用类型（强引用）](jvmjava-yin-yong-lei-xing-ff08-qiang-yin-yong-ff09.md)
+* [JVM\_Java引用类型（软引用）](jvmjava-yin-yong-lei-xing-ff08-ruan-yin-yong-ff09.md)
 
