@@ -13,7 +13,7 @@
 - [判断2的乘方](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190199&idx=1&sn=3d22e6bc95b66635dd6a36c5900ac401&chksm=8c990aedbbee83fb2ddbbc6f2ff932f2a1358b9882e42a142f80a60f6afd8373d495d07046e3&scene=21#wechat_redirect)
 - [找出缺失的整数](/zhao-chu-que-shi-de-zheng-shu.md) 
 - [最小栈](/zui-xiao-zhan.md)
-- [Base64](/base64.md)
+- [Base64](https://mp.weixin.qq.com/s/jZJVSt8SSZvFzSkAoTILvw)
 
 ## Android
 
