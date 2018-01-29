@@ -27,4 +27,5 @@
 * [MD5](md5.md)
 * [JVM\_G1收集器（G1收集策略）](jvmg1-shou-ji-qi-ff08-g1-shou-ji-ce-lve-ff09.md)
 * [JVM\_G1收集器（G1相关处理参数）](jvmg1-shou-ji-qi-ff08-g1-xiang-guan-chu-li-can-shu-ff09.md)
+* [JVM\_Java引用类型（引用类型划分）](jvmjava-yin-yong-lei-xing-ff08-yin-yong-lei-xing-hua-fen-ff09.md)
 
