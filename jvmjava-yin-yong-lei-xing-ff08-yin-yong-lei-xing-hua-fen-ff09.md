@@ -8,7 +8,6 @@
 
 ```
 Obeject obj = new Object(); 
-
 ```
 
 2. 软引用：
