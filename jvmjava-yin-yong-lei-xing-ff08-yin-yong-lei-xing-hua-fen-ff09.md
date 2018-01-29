@@ -6,4 +6,9 @@
 
 1. 强引用：当内存不足的时候，JVM宁可出现OOM（OutOfMemory）错误停止，也需要进行保存，并且不会将此空间回收；
 
+```
+Obeject obj = new Object(); 
+
+```
+
 2. 
