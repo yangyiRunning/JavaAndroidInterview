@@ -37,3 +37,4 @@ java -Xmx10m -Xms10m -XX:+UseG1GC -XX:+PrintGCDetails TestDemo
 
 ![](/assets/3751517238552_.pic_hd.jpg)
 
+G1的处理和传统的垃圾收集策略是不同的，关键的因素是G1将所有的内存进行了子区域的划分。
