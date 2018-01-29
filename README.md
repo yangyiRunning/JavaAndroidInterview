@@ -65,6 +65,9 @@
 
 - [G1相关处理参数](/jvmg1-shou-ji-qi-ff08-g1-xiang-guan-chu-li-can-shu-ff09.md)
 
+#### 5. Java引用类型
+
+
 
 ---
 
