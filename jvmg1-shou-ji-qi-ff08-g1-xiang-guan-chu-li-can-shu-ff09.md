@@ -4,3 +4,26 @@
 
 ![](/assets/3721517237988_.pic_hd.jpg)
 
+使用G1回收器：
+
+准备好范例代码TestDemo.java类：
+
+``` 
+public class TestDemo {
+
+    public static void main(String[] args) {
+        String str = "www.google.com";
+        while (true) {
+            str += str + str;
+            str.intern();
+        }
+    }
+}
+
+```
+
+``` 
+java -Xmx10m -Xms10m -XX:+UseG1GC -XX:+PrintGCDetails TestDemo
+
+```
+
