@@ -29,3 +29,11 @@ java -Xmx10m -Xms10m -XX:+UseG1GC -XX:+PrintGCDetails TestDemo
 
 ```
 
+3. 会输入如下大量的信息：
+
+![](/assets/3731517238485_.pic_hd.jpg)
+
+![](/assets/3741517238519_.pic_hd.jpg)
+
+![](/assets/3751517238552_.pic_hd.jpg)
+
