@@ -11,4 +11,4 @@ Obeject obj = new Object();
 
 ```
 
-2. 
+2. 软引用：
