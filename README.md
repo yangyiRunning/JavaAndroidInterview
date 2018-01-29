@@ -4,7 +4,7 @@
 - [泛型](/fan-xing.md)
 - [HashMap](/hashmap.md)
 - [volatile关键字](/volatileguan-jian-zi.md)
-- [ThreadLocal](/https://mp.weixin.qq.com/s/1ccG1R3ccP0_5A7A5zCdzQ)
+- [ThreadLocal](http://mp.weixin.qq.com/s/1ccG1R3ccP0_5A7A5zCdzQ)
 
 ## 算法相关
 
