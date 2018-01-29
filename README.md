@@ -14,6 +14,7 @@
 - [找出缺失的整数](/zhao-chu-que-shi-de-zheng-shu.md) 
 - [最小栈](/zui-xiao-zhan.md)
 - [Base64](https://mp.weixin.qq.com/s/jZJVSt8SSZvFzSkAoTILvw)
+- [MD5](https://mp.weixin.qq.com/s/jZJVSt8SSZvFzSkAoTILvw)
 
 ## Android
 
