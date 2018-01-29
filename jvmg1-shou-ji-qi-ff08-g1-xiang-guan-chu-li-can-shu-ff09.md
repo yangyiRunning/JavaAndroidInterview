@@ -6,7 +6,7 @@
 
 使用G1回收器：
 
-准备好范例代码TestDemo.java类：
+1. 准备好范例代码TestDemo.java类：
 
 ``` 
 public class TestDemo {
@@ -21,6 +21,8 @@ public class TestDemo {
 }
 
 ```
+
+2. 然后打开终端键入如下命令行：
 
 ``` 
 java -Xmx10m -Xms10m -XX:+UseG1GC -XX:+PrintGCDetails TestDemo
