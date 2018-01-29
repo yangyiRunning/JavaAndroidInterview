@@ -61,6 +61,8 @@
 
 - [G1收集器简介](/jvmg1-shou-ji-qi-ff08-g1-shou-ji-qi-jian-jie-ff09.md)
 
+- [G1收集策略](/jvmg1-shou-ji-qi-ff08-g1-shou-ji-ce-lve-ff09.md)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/) 
