@@ -66,3 +66,7 @@ public class TestDemo3 {
 ```
 java.lang.Object@60e53b93
 ```
+
+表明：
+
+ref这个软引用并没有被回收，没有被回收的原因是内存不紧张。
