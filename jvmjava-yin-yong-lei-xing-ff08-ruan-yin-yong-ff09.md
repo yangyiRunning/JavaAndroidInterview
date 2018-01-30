@@ -71,7 +71,34 @@ java.lang.Object@60e53b93
 
 ref这个软引用并没有被回收，没有被回收的原因是此时此刻内存不紧张。
 
-为了观察内存紧张时的软引用回收情况，现在通过JVM配置将此类所分配到的内存“变的紧张”，代码如下：
+为了观察内存紧张时的软引用回收情况，现在通过JVM配置将此类所分配到的内存“变的紧张”，类中代码如下：
+
+```
+public class TestDemo3 {
+
+    public static void main(String[] args) {
+        Object obj = new Object();
+        String str = "hello";
+
+        //断开链接
+        obj = null;
+        //软引用
+        SoftReference<Object> ref = new SoftReference<>(obj);
+        try{
+            for (int i = 0; i < 100; i++) {
+                str = str + i;
+                str.intern();
+            }
+        }catch (Throwable throwable){
+
+        }
+//        Runtime.getRuntime().gc();
+        System.out.println(ref.get() + "     ###########################");
+    }
+}
+```
+
+再执行下列命令：
 
 ```
 java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo3
