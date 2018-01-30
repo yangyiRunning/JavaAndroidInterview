@@ -52,3 +52,6 @@ Process finished with exit code 0
 
 **一旦出现有GC，则必须进行回收处理，而且一回收一个准。**
 
+HashMap和WeakHashMap的区别：
+
+HashMap属于强引用，而WeakHashMap属于弱引用
