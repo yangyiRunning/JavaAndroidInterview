@@ -6,3 +6,20 @@
 
 观察弱引用：
 
+```
+public class TestDemo4 {
+
+    public static void main(String[] args) {
+        Map<String, String> map = new WeakHashMap<>();
+        String key = new String("hello");
+        String value = new String("world");
+        map.put(key, value);
+        System.out.println(map);
+        key = null;
+        System.out.println(map);
+        Runtime.getRuntime().gc();
+        System.out.println(map);
+    }
+}
+```
+
