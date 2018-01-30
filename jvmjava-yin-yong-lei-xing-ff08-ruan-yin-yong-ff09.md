@@ -104,3 +104,5 @@ public class TestDemo3 {
 java -Xmx10m -Xms10m -XX:+PrintGCDetails TestDemo3
 ```
 
+此时会输出以下结果:
+
