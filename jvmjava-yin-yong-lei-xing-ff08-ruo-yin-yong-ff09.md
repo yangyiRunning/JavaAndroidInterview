@@ -49,3 +49,4 @@ Process finished with exit code 0
 ```
 
 从上方的输出结果中可以看出，将key=null并不能将map回收，而只有当执行gc操作的时候才回收了map，也就是说一旦执行gc，该map引用就会被回收。
+
