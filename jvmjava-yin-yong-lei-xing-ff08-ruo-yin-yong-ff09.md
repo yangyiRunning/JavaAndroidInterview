@@ -54,4 +54,6 @@ Process finished with exit code 0
 
 HashMap和WeakHashMap的区别：
 
-HashMap属于强引用，而WeakHashMap属于弱引用
+- HashMap属于强引用，而WeakHashMap属于弱引用。
+
+- 在平常的发环境中
