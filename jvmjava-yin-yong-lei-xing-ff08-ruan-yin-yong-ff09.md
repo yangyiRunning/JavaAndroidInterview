@@ -70,3 +70,10 @@ java.lang.Object@60e53b93
 表明：
 
 ref这个软引用并没有被回收，没有被回收的原因是此时此刻内存不紧张。
+
+为了观察内存紧张时的软引用回收情况，现在通过JVM配置将此类所分配到的内存“变的紧张”，代码如下：
+
+```
+java -Xmx:2m -Xms:2m -XX:+PrintGCDetails TestDemo3
+```
+
