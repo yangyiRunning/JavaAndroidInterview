@@ -22,3 +22,47 @@
         this.timestamp = clock;
     } 
 ```
+
+- 取出数据：
+
+```
+/**
+     * Returns this reference object's referent.  If this reference object has
+     * been cleared, either by the program or by the garbage collector, then
+     * this method returns <code>null</code>.
+     *
+     * @return   The object to which this reference refers, or
+     *           <code>null</code> if this reference object has been cleared
+     */
+    public T get() {
+        T o = super.get();
+        if (o != null && this.timestamp != clock)
+            this.timestamp = clock;
+        return o;
+    }
+```
+
+观察软引用：
+
+示例代码：
+
+```
+public class TestDemo3 {
+
+    public static void main(String[] args) {
+        Object obj = new Object();
+        //软引用
+        SoftReference<Object> ref = new SoftReference<>(obj);
+        //断开链接
+        obj = null;
+        Runtime.getRuntime().gc();
+        System.out.println(ref.get());
+    }
+}
+```
+
+输出下列结果：
+
+```
+java.lang.Object@60e53b93
+```
