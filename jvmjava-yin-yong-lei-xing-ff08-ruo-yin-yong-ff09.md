@@ -56,4 +56,4 @@ HashMap和WeakHashMap的区别：
 
 - HashMap属于强引用，而WeakHashMap属于弱引用。
 
-- 在平常的发环境中
+- 在平常的开发环境中，一般都是用HashMap，只有在高敏感度的应用区域，才会使用WeakHashMap。
