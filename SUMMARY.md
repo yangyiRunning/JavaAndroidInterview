@@ -31,4 +31,5 @@
 * [JVM\_Java引用类型（强引用）](jvmjava-yin-yong-lei-xing-ff08-qiang-yin-yong-ff09.md)
 * [JVM\_Java引用类型（软引用）](jvmjava-yin-yong-lei-xing-ff08-ruan-yin-yong-ff09.md)
 * [红黑树](hong-hei-shu.md)
+* [JVM\_Java引用类型（弱引用）](jvmjava-yin-yong-lei-xing-ff08-ruo-yin-yong-ff09.md)
 
