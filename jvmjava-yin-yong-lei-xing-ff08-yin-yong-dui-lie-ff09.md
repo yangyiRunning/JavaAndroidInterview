@@ -42,3 +42,27 @@ Process finished with exit code 0
 
 ```
 
+加入GC的操作，此时因为是弱引用，所以一定会被回收，因为GC的操作有延迟，所以这个让其延迟2000ms执行：
+
+```
+public class TestDemo5 {
+
+    public static void main(String[] args) throws Exception{
+        Object obj = new Object();
+        ReferenceQueue<Object> queue = new ReferenceQueue<>();
+        WeakReference<Object> ref = new WeakReference<Object>(obj, queue);
+        System.out.println(queue.poll());
+        obj = null;
+        Runtime.getRuntime().gc();
+        Thread.sleep(2000);
+        System.out.println(queue.poll());
+
+    }
+}
+```
+
+输出信息如下：
+
+```
+
+```
