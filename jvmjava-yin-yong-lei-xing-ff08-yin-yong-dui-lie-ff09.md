@@ -8,3 +8,17 @@
 
 使用引用队列：
 
+示例代码如下：
+
+```
+public class TestDemo5 {
+
+    public static void main(String[] args) {
+        Object obj = new Object();
+        ReferenceQueue<Object> queue = new ReferenceQueue<>();
+        WeakReference<Object> ref = new WeakReference<Object>(obj, queue);
+        System.out.println(queue.poll());
+    }
+}
+```
+
