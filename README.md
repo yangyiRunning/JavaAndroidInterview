@@ -76,7 +76,7 @@
 
 - [弱引用](/jvmjava-yin-yong-lei-xing-ff08-ruo-yin-yong-ff09.md)
 
-## 网络
+## 网络传输
 
 - [TCP/IP](/tcpip.md)
 
