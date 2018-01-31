@@ -84,3 +84,4 @@ Process finished with exit code 0
 
 ```
 
+这种引用队列主要是做一些被回收对象的控制。
