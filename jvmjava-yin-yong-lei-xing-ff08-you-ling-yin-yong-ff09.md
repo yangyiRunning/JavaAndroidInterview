@@ -45,3 +45,6 @@ Process finished with exit code 0
 
 ```
 
+此时代码中的两个输出结果都为null。
+
+因为所有保存在幽灵引用类型中的数据都不会真正的保留。
