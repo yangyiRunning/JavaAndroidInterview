@@ -78,6 +78,8 @@
 
 - [引用队列](/jvmjava-yin-yong-lei-xing-ff08-yin-yong-dui-lie-ff09.md)
 
+- [幽灵引用](/jvmjava-yin-yong-lei-xing-ff08-you-ling-yin-yong-ff09.md)
+
 ## 网络传输
 
 - [TCP/IP](https://mp.weixin.qq.com/s/33FK5IuGq2da-O1xgS1AKA)
