@@ -2,7 +2,7 @@
 
 #### 关键字： 线程与进程、Android跨进程通信、Android消息机制、Linux pipe/epoll机制
 
-划重点：
+##### 划重点：
 
 - 每个App都运行在一个进程中（除非在AndroidManifest.xml中配置Android:process属性，或通过native代码fork进程）
 
@@ -20,6 +20,10 @@
 - Activity的生命周期都是依靠主线程的Looper.loop，当收到不同Message时则采用相应措施：在H.handleMessage(msg)方法中，根据接收到不同的msg，执行相应的生命周期。
 
 - 主线程的message是由App进程中的其他线程通过Handler发送来的
+
+##### 综述一下Android系统中的某个App的启动流程：
+
+
 
 
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
