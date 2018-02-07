@@ -23,7 +23,7 @@
 
 ##### 综述一下思路（回溯启动一个App的流程）：
 
-1.  每个App都是Android系统fork出来的一个进程，进程中都运行着一个主线程，此主线程的名叫ActivityAThread，此类虽没有直接继承自Thread类，但事实上充当了主线程的职能。
+1.  每个App都是Android系统fork出来的一个进程，进程中都运行着一个主线程，此主线程的名叫ActivityThread，此类虽没有直接继承自Thread类，但事实上充当了主线程的职能。
 
 2. 主线程ActivityThread的main方法中，启动了一个Binder线程和一个死循环。
 
