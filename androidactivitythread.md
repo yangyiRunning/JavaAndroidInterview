@@ -26,4 +26,7 @@
 - 而系统服务的响应，取决于外界用户的各种操作
 
 
+---
+
+
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
