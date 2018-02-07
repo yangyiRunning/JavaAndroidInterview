@@ -19,6 +19,8 @@
 
 - Activity的生命周期都是依靠主线程的Looper.loop，当收到不同Message时则采用相应措施：在H.handleMessage(msg)方法中，根据接收到不同的msg，执行相应的生命周期。
 
+- 主线程的message是由App进程中的其他线程通过Handler发送来的
+
 
 
 
