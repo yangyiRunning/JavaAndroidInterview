@@ -25,9 +25,11 @@
 
 1.  每个App都是Android系统fork出来的一个进程，进程中都运行着一个主线程，此主线程的名叫ActivityThread，此类虽没有直接继承自Thread类，但事实上充当了主线程的职能。
 
-2. 主线程ActivityThread的main方法中，启动了一个Binder线程和一个死循环。
+2. 在主线程ActivityThread的main方法中，为了保证主线程间的信息接收，新建了一个Binder线程（ApplicationThread）；为了保证主线程不灭，开启了一个死循环将其“撑住”。
 
-3. 既然
+3. “撑住”的主线程枕戈待旦等待着Binder线程的指示。
+
+4. 而Binder线程又翘首期盼着远在另一个进程——系统服务进程的召唤
 
 
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
