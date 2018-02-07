@@ -22,6 +22,4 @@
 - 主线程的message是由App进程中的其他线程通过Handler发送来的
 
 
-
-
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
