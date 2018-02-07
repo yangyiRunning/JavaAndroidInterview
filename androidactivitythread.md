@@ -19,11 +19,11 @@
 
 - Activity的生命周期都是依靠主线程的Looper.loop，当收到不同Message时则采用相应措施：在H.handleMessage(msg)方法中，根据接收到不同的msg，执行相应的生命周期。
 
-- 主线程的message是由App进程中的其他线程通过Handler发送来的
+- 主线程的message是由App进程中的其Binder线程通过Handler发送来的
 
-##### 综述一下思路（启动一个App的流程）：
+- 而位于App进程中的Binder线程中的指示又是由系统级服务AMS通过Binder线程远在系统进程中的代理发送来的
 
-
+- 而系统服务的响应，取决于外界用户的各种操作
 
 
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
