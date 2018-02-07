@@ -21,7 +21,7 @@
 - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
 - [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 - [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
-- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？]()
+- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/androidactivitythread.md)
 
 ## 数据结构
 
