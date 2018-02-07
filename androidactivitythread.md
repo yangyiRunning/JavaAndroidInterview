@@ -5,7 +5,7 @@
 划重点：
 
 - 每个App都运行在一个进程中（除非在AndroidManifest.xml中配置Android:process属性，或通过native代码fork进程）
-- 
+- 进程和线程的本质区别：**是否能够共享数据**，每个进程拥有自己的一整套变量，而线程则共享数据。
 
 
 _原文链接：[https://www.zhihu.com/question/34652589/answer/90344494](https://www.zhihu.com/question/34652589/answer/90344494)_
