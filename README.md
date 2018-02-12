@@ -5,6 +5,7 @@
 - [HashMap](/hashmap.md)
 - [volatile关键字](/volatileguan-jian-zi.md)
 - [ThreadLocal](http://mp.weixin.qq.com/s/1ccG1R3ccP0_5A7A5zCdzQ)
+- [类加载机制](/java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
 
 ## 算法相关
 
