@@ -60,6 +60,58 @@
 3. 如果 parent 加载器加载成功，则直接返回
 4. 如果 parent 未加载到，则自身调用 findClass() 方法进行寻找，并把寻找结果返回
 
+### 4. 自定义类加载器
+
+```
+/**
+ * Load class from network
+ */
+public class NetworkClassLoader extends ClassLoader {
+    @Override
+    protected Class<?> findClass(String name) throws ClassNotFoundException {
+        byte[] classData = downloadClassData(name); // 从远程下载
+        if (classData == null) {
+            super.findClass(name); // 未找到，抛异常
+        } else {
+            return defineClass(name, classData, 0, classData.length); // convert class byte data to Class<?> object
+        }
+        return null;
+    }
+    private byte[] downloadClassData(String name) {
+        // 从 localhost 下载 .class 文件
+        String path = "http://localhost" + File.separatorChar + "java" + File.separatorChar + name.replace('.', File.separatorChar) + ".class"; 
+        try {
+            URL url = new URL(path);
+            InputStream ins = url.openStream();
+            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+            int bufferSize = 4096;
+            byte[] buffer = new byte[bufferSize];
+            int bytesNumRead = 0;
+            while ((bytesNumRead = ins.read(buffer)) != -1) {
+                baos.write(buffer, 0, bytesNumRead); // 把下载的二进制数据存入 ByteArrayOutputStream
+            }
+            return baos.toByteArray();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+    public String getName() {
+        System.out.printf("Real NetworkClassLoader\n");
+        return "networkClassLoader";
+    }
+}
+```
+
+在需要加载的时机调用下列代码：
+
+```
+String className = "classloader.NetworkClass";
+NetworkClassLoader networkClassLoader = new NetworkClassLoader();
+Class<?> clazz  = networkClassLoader.loadClass(className);
+```
+
+
 ---
 
 **作者：wingjay**
