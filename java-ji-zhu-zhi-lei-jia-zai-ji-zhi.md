@@ -114,5 +114,5 @@ Class<?> clazz  = networkClassLoader.loadClass(className);
 
 ---
 
-**作者：wingjay**
+**原文作者：wingjay**
 _原文链接：[http://wingjay.com/2017/05/08/java_classloader/](http://wingjay.com/2017/05/08/java_classloader/)_
