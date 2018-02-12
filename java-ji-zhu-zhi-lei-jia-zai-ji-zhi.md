@@ -103,7 +103,7 @@ public class NetworkClassLoader extends ClassLoader {
 }
 ```
 
-在需要加载的时机调用下列代码：
+在需要加载的时机调用下列代码完成加载：
 
 ```
 String className = "classloader.NetworkClass";
