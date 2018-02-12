@@ -16,7 +16,7 @@
 
 ### 3. 双亲委托机制源码逻辑（loadClass方法）： （JDK1.8为例）
 
-`
+```
     protected Class<?> loadClass(String name, boolean resolve) throws ClassNotFoundException
     {
         synchronized (getClassLoadingLock(name)) {
@@ -52,7 +52,7 @@
             }
             return c;
         }
-    }`
+    }```
 
 ---
 
