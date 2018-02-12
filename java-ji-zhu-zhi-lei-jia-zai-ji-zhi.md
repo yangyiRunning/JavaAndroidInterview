@@ -2,13 +2,8 @@
 
 ### 4种Java自带的类加载器：
 
-1. ：
- - 负责加载$JAVA_HOME/jre/lib/目录下的Java核心类，不继承ClassLoader，由JVM内部实现
-2. ：用于加载$JAVA_HOME/jre/lib/ext目录下的核心拓展类
-3. ****
-
-|类加载器(**ClassLoader**)的种类|**BootstrapClassLoader**|**ExtClassLoader**|**AppClassLoader**|**自定义ClassLoader**|
+|**类加载器(ClassLoader)的种类**|**BootstrapClassLoader**|**ExtClassLoader**|**AppClassLoader**|**自定义ClassLoader**|
 |:---:|:---:|:---:|:---:|:---:|
-
+|**负责加载的范围**|负责加载$JAVA_HOME/jre/lib/ 目录下的Java核心类，不继承ClassLoader，由JVM内部实现|负责加载$JAVA_HOME/jre/lib/ext目录下的核心拓展类|开发者在项目中编写的类||
 
 _原文链接：[http://wingjay.com/2017/05/08/java_classloader/](http://wingjay.com/2017/05/08/java_classloader/)_
