@@ -7,8 +7,6 @@
 - [ThreadLocal](http://mp.weixin.qq.com/s/1ccG1R3ccP0_5A7A5zCdzQ)
 - [反射](/java-ji-zhu-zhi-fan-she.md)
 - [注解](/javaji-zhu-zhi-zhu-jie.md)
-
-
 - [类加载机制](/java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
 
 ## 算法相关
