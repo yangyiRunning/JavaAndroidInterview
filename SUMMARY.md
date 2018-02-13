@@ -37,4 +37,5 @@
 * [Android\_ActivityThread](androidactivitythread.md)
 * [Java 技术之类加载机制](java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
 * [Java 技术之反射](java-ji-zhu-zhi-fan-she.md)
+* [Java技术之注解](javaji-zhu-zhi-zhu-jie.md)
 
