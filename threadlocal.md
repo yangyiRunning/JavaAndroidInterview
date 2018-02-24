@@ -7,7 +7,7 @@
 - 避免ThreadLocal内存泄漏的方法：使用完ThreadLocal后显式的调用remove方法
 
 ```
-ThreadLocal<String> localName = new ThreadLocal();
+ThreadLocal<String> localName = new ThreadLocal(); 
 try {
 localName.set("占小狼");
 } finally {
