@@ -25,7 +25,7 @@
 - [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 - [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
 - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/androidactivitythread.md)
-- [Android UI性能优化详解](/http://mrpeak.cn/android/2016/01/11/android-performance-ui)
+- [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
 
 ## 数据结构
 
