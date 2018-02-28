@@ -9,6 +9,15 @@
 - [注解](/javaji-zhu-zhi-zhu-jie.md)
 - [类加载机制](/java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
 
+## Android
+
+- [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
+- [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
+- [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
+- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/androidactivitythread.md)
+- [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
+- [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
+
 ## 算法相关
 
 - [一致性哈希](/yi-zhi-xing-ha-xi.md) 
@@ -18,15 +27,6 @@
 - [最小栈](/zui-xiao-zhan.md)
 - [Base64](https://mp.weixin.qq.com/s/jZJVSt8SSZvFzSkAoTILvw)
 - [MD5](/md5.md)
-
-## Android
-
-- [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
-- [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
-- [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
-- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/androidactivitythread.md)
-- [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
-- [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 
 ## 数据结构
 
