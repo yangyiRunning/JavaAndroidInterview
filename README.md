@@ -26,6 +26,7 @@
 - [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
 - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/androidactivitythread.md)
 - [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
+- [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 
 ## 数据结构
 
