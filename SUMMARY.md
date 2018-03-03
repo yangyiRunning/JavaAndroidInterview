@@ -40,4 +40,6 @@
 * [Java技术之注解](javaji-zhu-zhi-zhu-jie.md)
 * [ThreadLocal](threadlocal.md)
 * [机器](ji-qi.md)
+* [数字](shu-zi.md)
+* [CPU](cpu.md)
 
