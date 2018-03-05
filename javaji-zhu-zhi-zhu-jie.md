@@ -14,8 +14,10 @@ public void getName() {}
 @Annotation 
 String name;
 public void setName(@Annotation String name) {}
-
 ``` 
+
+- 元注解：指定某个 Annotation 修饰的目标对象
+
 
 
 
