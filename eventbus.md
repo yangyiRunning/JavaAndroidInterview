@@ -34,10 +34,9 @@
  
  **原作者：shixinzhang**
 
-_原文链接：
+_原文链接_：
 
-1.[http://blog.csdn.net/u011240877/article/details/52683558](http://blog.csdn.net/u011240877/article/details/52683558)
+1. [http://blog.csdn.net/u011240877/article/details/52683558](http://blog.csdn.net/u011240877/article/details/52683558)
 2. [http://blog.csdn.net/u011240877/article/details/73196808](http://blog.csdn.net/u011240877/article/details/73196808)
 3. [http://blog.csdn.net/u011240877/article/details/73015939](http://blog.csdn.net/u011240877/article/details/73015939)
 4. [http://blog.csdn.net/u011240877/article/details/74599216](http://blog.csdn.net/u011240877/article/details/74599216)
-_
