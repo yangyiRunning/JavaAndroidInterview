@@ -7,6 +7,9 @@
    3. 被观察者（Observable）通过一个开关命令触发具体的动作，且会调用观察者（Observer）中的某个方法
    4. 观察者（Observer）内早就准备好了触发后方法的具体实现
 
+- [EventBus 3.0 的特点与如何使用](http://blog.csdn.net/u011240877/article/details/73015939)
+ - 
+
 
 - [源码分析 EventBus 3.0 如何实现事件总线](http://blog.csdn.net/u011240877/article/details/73196808)
  - 关键字：
