@@ -20,7 +20,7 @@
 
 
 - [源码分析 EventBus 3.0 如何实现事件总线](http://blog.csdn.net/u011240877/article/details/73196808)
- - 关键字：
+ - 关键点：
    1. 
    
 - [从 EventBus 中学到的精华](http://blog.csdn.net/u011240877/article/details/74599216)
