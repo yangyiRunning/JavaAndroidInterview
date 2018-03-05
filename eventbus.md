@@ -14,7 +14,8 @@
    2. 注册和注销要成对出现
    3. 4种线程模式
    4. 只有在同一线程中的订阅者优先级才有作用
-   5. 只有 ThreadMode 为 POSTING 的订阅方法可以拦截消息
+   5. 只有 ThreadMode 为 POSTING 的订阅方法可以拦截消息，这通过调用 cancelEventDelivery(event) 方法
+   6. 通过 EventBus.builder()配置
 
 
 - [源码分析 EventBus 3.0 如何实现事件总线](http://blog.csdn.net/u011240877/article/details/73196808)
