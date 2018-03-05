@@ -6,7 +6,7 @@
  2. RetentionPolicy.CLASS  // 在编译期生效，默认值
  3. RetentionPolicy.RUNTIME // 在代码运行时生效
  
-Annotation用来指定的对象（方法、类、变量、参数）:
+- Annotation用来指定的对象（方法、类、变量、参数）:
 
 ```
 @Annotation 
@@ -16,6 +16,8 @@ String name;
 public void setName(@Annotation String name) {}
 
 ``` 
+
+
 
 ---
 
