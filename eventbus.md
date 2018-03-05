@@ -8,7 +8,8 @@
    4. 观察者（Observer）内早就准备好了触发后方法的具体实现
 
 - [EventBus 3.0 的特点与如何使用](http://blog.csdn.net/u011240877/article/details/73015939)
- - 
+ - 关键字;
+   1.  
 
 
 - [源码分析 EventBus 3.0 如何实现事件总线](http://blog.csdn.net/u011240877/article/details/73196808)
