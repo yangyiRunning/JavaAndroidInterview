@@ -10,7 +10,11 @@
 
 - [EventBus 3.0 的特点与如何使用](http://blog.csdn.net/u011240877/article/details/73015939)
  - 关键字;
-   1.  
+   1. 谁用谁注册和注销
+   2. 注册和注销要成对出现
+   3. 4种线程模式
+   4. 只有在同一线程中的订阅者优先级才有作用
+   5. 只有 ThreadMode 为 POSTING 的订阅方法可以拦截消息
 
 
 - [源码分析 EventBus 3.0 如何实现事件总线](http://blog.csdn.net/u011240877/article/details/73196808)
