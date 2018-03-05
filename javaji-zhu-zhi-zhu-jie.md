@@ -18,7 +18,22 @@ public void setName(@Annotation String name) {}
 
 - 元注解：指定某个 Annotation 修饰的目标对象
 
-
+ 1. 修饰方法:
+ 
+ ```
+@Target(ElementType.METHOD)
+public @interface Override {
+}
+ ```
+ 
+ 2. 修饰多种：
+ 
+ ```
+ @Target({TYPE, FIELD, METHOD, PARAMETER, CONSTRUCTOR, LOCAL_VARIABLE})
+public @interface SuppressWarnings {
+    String[] value();
+}
+ ```
 
 
 ---
