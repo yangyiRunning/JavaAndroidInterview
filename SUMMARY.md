@@ -43,5 +43,5 @@
 * [数字](shu-zi.md)
 * [CPU](cpu.md)
 * [EventBus](eventbus.md)
-* [Handler](handler.md)
+* [消息机制](xiao-xi-ji-zhi.md)
 
