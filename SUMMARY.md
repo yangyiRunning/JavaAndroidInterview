@@ -43,8 +43,4 @@
 * [数字](shu-zi.md)
 * [CPU](cpu.md)
 * [EventBus](eventbus.md)
-* [收拾收拾家](shou-shi-shou-shi-jia.md)
-* [SSSSS](sssss.md)
-
-## SSS
 
