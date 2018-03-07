@@ -12,6 +12,12 @@
  1. Handler 给 MessageQueue 添加消息
  2. 然后 Looper 无限循环读取消息
  3. 再调用 Handler 处理消息
+ 
+### Message
+ 
+包含任意类型的对象和描述信息，可以被发送给 Handler。
+
+
 
 ---
 
