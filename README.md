@@ -18,6 +18,7 @@
 - [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 - [EventBus](/eventbus.md)
+- [源码解读 Android 消息机制（ Message MessageQueue Handler Looper）]()
 
 ## 算法相关
 
