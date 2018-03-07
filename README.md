@@ -18,7 +18,7 @@
 - [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 - [EventBus](/eventbus.md)
-- [消息机制](/handler.md)
+- [消息机制](/xiao-xi-ji-zhi.md)
 
 ## 算法相关
 
