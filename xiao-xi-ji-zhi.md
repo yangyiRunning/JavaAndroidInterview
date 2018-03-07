@@ -59,6 +59,8 @@ public Object obj;
 
 - 还有一些标志位和消息池
 
+
+
 ---
 
 **原作者：shixinzhang**
