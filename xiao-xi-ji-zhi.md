@@ -57,7 +57,7 @@ public Object obj;
 /*package*/Handler target;
 ```
 
-
+- 还有一些标志位和消息池
 
 ---
 
