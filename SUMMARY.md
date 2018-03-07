@@ -43,4 +43,5 @@
 * [数字](shu-zi.md)
 * [CPU](cpu.md)
 * [EventBus](eventbus.md)
+* [源码解读 Android 消息机制（ Message MessageQueue Handler Looper）](yuan-ma-jie-du-android-xiao-xi-ji-zhi-ff08-message-messagequeue-handler-looper.md)
 
