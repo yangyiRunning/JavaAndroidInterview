@@ -2,7 +2,11 @@
 
 - 消息机制可以说是Android中最核心的技术点之一，可以说没有它，整个Android应用层将无从谈起。
 
-- 涉及到的类
+- 涉及到的类:
+ 1. Message
+ 2. MessageQueue
+ 3. Handler
+ 4. Looper
 
 ---
 
