@@ -11,7 +11,7 @@
 - 总体上对消息机制最最基础的感性认识：
  1. Handler 给 MessageQueue 添加消息
  2. 然后 Looper 无限循环读取消息
- 3. 再调用 Handler 处理消息
+ 3. 再调用 Handler 处理消息 
  
 ### Message
  
