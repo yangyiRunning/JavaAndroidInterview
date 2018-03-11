@@ -19,7 +19,6 @@
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 - [EventBus](/eventbus.md)
 - [消息机制](/xiao-xi-ji-zhi.md)
-- [九种排序算法的可视化及比较](https://zhuanlan.zhihu.com/p/34421623?utm_medium=social&utm_source=wechat_session&from=timeline&isappinstalled=0)
 
 ## 算法相关
 
@@ -30,6 +29,7 @@
 - [最小栈](/zui-xiao-zhan.md)
 - [Base64](https://mp.weixin.qq.com/s/jZJVSt8SSZvFzSkAoTILvw)
 - [MD5](/md5.md)
+- [九种排序算法的可视化及比较](https://zhuanlan.zhihu.com/p/34421623?utm_medium=social&utm_source=wechat_session&from=timeline&isappinstalled=0)
 
 ## 数据结构
 
