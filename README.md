@@ -19,6 +19,7 @@
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 - [EventBus](/eventbus.md)
 - [消息机制](/xiao-xi-ji-zhi.md)
+- [九种排序算法的可视化及比较](/https://zhuanlan.zhihu.com/p/34421623?utm_medium=social&utm_source=wechat_session&from=timeline&isappinstalled=0)
 
 ## 算法相关
 
