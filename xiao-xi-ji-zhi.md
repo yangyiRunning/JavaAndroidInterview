@@ -61,7 +61,21 @@ public Object obj;
 
 ### Message.obtain()
 
-
+```
+public static Message obtain() {
+        synchronized (sPoolSync) {
+            if (sPool != null) {
+                Message m = sPool;
+                sPool = m.next;
+                m.next = null;
+                m.flags = 0; // clear in-use flag
+                sPoolSize--;
+                return m;
+            }
+        }
+        return new Message();
+    }
+```
 
 ---
 
