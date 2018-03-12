@@ -19,7 +19,7 @@
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
 - [EventBus](/eventbus.md)
 - [消息机制](/xiao-xi-ji-zhi.md)
-- [Android进阶必备：跨进程通讯机制](http://mp.weixin.qq.com/s/c33fL_pNUTcxCKSy6Rf5cQ)
+- [跨进程通讯机制](http://mp.weixin.qq.com/s/c33fL_pNUTcxCKSy6Rf5cQ)
 
 ## 算法相关
 
