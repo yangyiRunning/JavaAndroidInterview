@@ -239,6 +239,8 @@ private static final String TAG = "MessageQueue";
     private int mNextBarrierToken;
 ```
 
+MessageQueue持有一个message链表的头节点
+
 
 
 ---
