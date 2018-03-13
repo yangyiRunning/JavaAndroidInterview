@@ -13,9 +13,7 @@
  2. 然后 Looper 无限循环读取消息
  3. 再调用 Handler 处理消息 
  
-### Message
- 
-包含任意类型的对象和描述信息，可以被发送给 Handler。
+### Message：包含任意类型的对象和描述信息，可以被发送给 Handler
 
 类中关键要素：
 
@@ -64,9 +62,7 @@ public Object obj;
 1. Message.obtain()
 2. Handler.obtainMessage()
 
-
-
-### Message.obtain()
+### Message.obtain()：从回收池中获取消息本质上最终调用了这个方法
 
 ```
 public static Message obtain() {
