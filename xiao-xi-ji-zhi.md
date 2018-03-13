@@ -210,7 +210,36 @@ public static void loop() {
 
 **在移除消息的过程中，并不是真正的“移除”，而是将消息存放在回收消息链表中，同理，在消息获取时，也不是真正的新建，而是从回收消息链表中拿取先前存进去的消息**
 
-**在MessageQueue出队时，和Looper处理时，分别会将消息存放进回收消息链表；在Message.obtain时从回收链表中获取一个的旧的消息**
+**在MessageQueue出队时，和Looper处理时，分别会将消息存放进回收消息链表；在Message.obtain()时从回收链表中获取一个的旧的消息**
+
+### 6. MessageQueue:  管理着一个 Message 的列表，Handlers 为它添加消息，Looper 从中取消息
+
+
+```
+private static final String TAG = "MessageQueue";
+    private static final boolean DEBUG = false;
+
+    // True if the message queue can be quit.
+    private final boolean mQuitAllowed;
+
+    @SuppressWarnings("unused")
+    private long mPtr; // used by native code
+
+    Message mMessages;
+    private final ArrayList<IdleHandler> mIdleHandlers = new ArrayList<IdleHandler>();
+    private SparseArray<FileDescriptorRecord> mFileDescriptorRecords;
+    private IdleHandler[] mPendingIdleHandlers;
+    private boolean mQuitting;
+
+    // Indicates whether next() is blocked waiting in pollOnce() with a non-zero timeout.
+    private boolean mBlocked;
+
+    // The next barrier token.
+    // Barriers are indicated by messages with a null target whose arg1 field carries the token.
+    private int mNextBarrierToken;
+```
+
+
 
 ---
 
