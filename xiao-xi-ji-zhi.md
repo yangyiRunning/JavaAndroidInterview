@@ -83,6 +83,34 @@ public static Message obtain() {
 
 ### 4. 消息回收再利用：Message.recycleUnchecked() 
 
+```
+void recycleUnchecked() {
+        // Mark the message as in use while it remains in the recycled object pool.
+        // Clear out all other details.
+        flags = FLAG_IN_USE;
+        what = 0;
+        arg1 = 0;
+        arg2 = 0;
+        obj = null;
+        replyTo = null;
+        sendingUid = -1;
+        when = 0;
+        target = null;
+        callback = null;
+        data = null;
+
+        synchronized (sPoolSync) {
+            if (sPoolSize < MAX_POOL_SIZE) {
+                next = sPool;
+                sPool = this;
+                sPoolSize++;
+            }
+        }
+    }
+```
+
+
+
 ---
 
 **原作者：shixinzhang**
