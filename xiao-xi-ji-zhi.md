@@ -327,6 +327,7 @@ boolean enqueueMessage(Message msg, long when) {
         return true;
     }
 ```
+由上面的源码得知，**每次调用 Handler.sendMessage() 时，都必须是 obtain() 或者 new 一个新的 Message 对象，否则就会报This message is already in use.的错误**
 
 ---
 
