@@ -111,7 +111,7 @@ void recycleUnchecked() {
 
 **设置个标记位防止被重复入队，将数据清空，给消息池加锁，if(没达到池容量) 拼入链表尾且长度+1**
 
-### 5. 回收消息方法调用时机
+### 5. 回收消息方法调用时机：MessageQueue.removeMessages和Looper.loop()
 
 ```
 void removeMessages(Handler h, int what, Object object) {
