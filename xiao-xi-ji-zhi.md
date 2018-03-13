@@ -267,7 +267,7 @@ public static @Nullable Looper myLooper() {
     }
 ```
 
-7. MessageQueue的消息入队过程：
+### 7. MessageQueue的消息入队过程：
 
 ```
 boolean enqueueMessage(Message msg, long when) {
