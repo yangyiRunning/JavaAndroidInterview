@@ -81,7 +81,7 @@ public static Message obtain() {
 ```
 给消息池加锁保证线程安全，if(消息列表为空) new一个消息链表; 否则从回收池中返回链表头对应的数据; 相应链表缩短1位
 
-### 4. 消息回收再利用：Message.recycleUnchecked()，在MessageQueue和Looper中都会调用
+### 4. 消息回收再利用：Message.recycleUnchecked()，在MessageQueue和Looper中都会被调用
 
 ```
 void recycleUnchecked() {
@@ -109,6 +109,7 @@ void recycleUnchecked() {
     }
 ```
 
+设置个标记位防止被重复入队，将数据清空，给消息池加锁，if(没达到池容量) 拼入链表尾且长度+1
 
 
 ---
