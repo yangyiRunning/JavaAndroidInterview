@@ -111,6 +111,44 @@ void recycleUnchecked() {
 
 **设置个标记位防止被重复入队，将数据清空，给消息池加锁，if(没达到池容量) 拼入链表尾且长度+1**
 
+### 5. 回收消息方法调用时机
+
+```
+void removeMessages(Handler h, int what, Object object) {
+        if (h == null) {
+            return;
+        }
+
+        synchronized (this) {
+            Message p = mMessages;
+
+            // Remove all messages at front.
+            while (p != null && p.target == h && p.what == what
+                   && (object == null || p.obj == object)) {
+                Message n = p.next;
+                mMessages = n;
+                p.recycleUnchecked();
+                p = n;
+            }
+
+            // Remove all messages after front.
+            while (p != null) {
+                Message n = p.next;
+                if (n != null) {
+                    if (n.target == h && n.what == what
+                        && (object == null || n.obj == object)) {
+                        Message nn = n.next;
+                        n.recycleUnchecked();
+                        p.next = nn;
+                        continue;
+                    }
+                }
+                p = n;
+            }
+        }
+    }
+```
+
 
 
 ---
