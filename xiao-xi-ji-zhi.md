@@ -271,7 +271,7 @@ public static @Nullable Looper myLooper() {
 
 ```
 boolean enqueueMessage(Message msg, long when) {
-        if (msg.target == null) {
+        if (msg.target == null) { //这里要求消息必须跟 Handler 关联
             throw new IllegalArgumentException("Message must have a target.");
         }
         if (msg.isInUse()) {
@@ -279,7 +279,7 @@ boolean enqueueMessage(Message msg, long when) {
         }
 
         synchronized (this) {
-            if (mQuitting) {
+            if (mQuitting) {  //如果消息队列已经退出，还入队就报错
                 IllegalStateException e = new IllegalStateException(
                         msg.target + " sending message to a Handler on a dead thread");
                 Log.w(TAG, e.getMessage(), e);
@@ -287,16 +287,19 @@ boolean enqueueMessage(Message msg, long when) {
                 return false;
             }
 
-            msg.markInUse();
+            msg.markInUse();  //消息入队后就标记为 在被使用
             msg.when = when;
             Message p = mMessages;
             boolean needWake;
+             //添加消息到链表中
             if (p == null || when == 0 || when < p.when) {
+            //之前是空链表的时候读取消息会阻塞，新添加消息后唤醒
                 // New head, wake up the event queue if blocked.
                 msg.next = p;
                 mMessages = msg;
                 needWake = mBlocked;
             } else {
+            //插入消息到队列时，只有在队列头部有个屏障并且当前消息是异步的时才需要唤醒队列
                 // Inserted within the middle of the queue.  Usually we don't have to wake
                 // up the event queue unless there is a barrier at the head of the queue
                 // and the message is the earliest asynchronous message in the queue.
