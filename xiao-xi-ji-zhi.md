@@ -59,6 +59,10 @@ public Object obj;
 
 - 还有一些标志位和消息池
 
+### 创建一个Message对象的正确方式
+
+
+
 ### Message.obtain()
 
 ```
