@@ -241,6 +241,22 @@ private static final String TAG = "MessageQueue";
 
 MessageQueue持有一个message链表的头节点
 
+在Looper的构造方法中MessageQueue初始化：
+
+```
+private Looper(boolean quitAllowed) {
+        mQueue = new MessageQueue(quitAllowed);
+        mThread = Thread.currentThread();
+    }
+```
+
+```
+MessageQueue(boolean quitAllowed) {
+        mQuitAllowed = quitAllowed;
+        mPtr = nativeInit();
+    }
+```
+
 
 
 ---
