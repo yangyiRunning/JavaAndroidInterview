@@ -386,15 +386,18 @@ Message next() {
                         }
                         msg.next = null;
                         if (DEBUG) Log.v(TAG, "Returning message: " + msg);
+                        //标记这个消息在被使用
                         msg.markInUse();
                         return msg;
                     }
                 } else {
                     // No more messages.
+                    // 消息链表里没有消息了
                     nextPollTimeoutMillis = -1;
                 }
 
                 // Process the quit message now that all pending messages have been handled.
+                //如果收到退出的消息，并且所有等待处理的消息都处理完时，调用 Native 方法销毁队列
                 if (mQuitting) {
                     dispose();
                     return null;
@@ -403,6 +406,7 @@ Message next() {
                 // If first time idle, then get the number of idlers to run.
                 // Idle handles only run if the queue is empty or if the first message
                 // in the queue (possibly a barrier) is due to be handled in the future.
+                 //有消息等待过段时间执行时，pendingIdleHandlerCount 增加
                 if (pendingIdleHandlerCount < 0
                         && (mMessages == null || now < mMessages.when)) {
                     pendingIdleHandlerCount = mIdleHandlers.size();
@@ -448,8 +452,40 @@ Message next() {
         }
     }
 ```
+**MessageQueue中开启了一个死循环，if(链表头不为空且消息对应的target不为空且到达了指定的处理时间)，就返回此消息，否则继续遍历链表的下一个节点**
 
+**如果有阻塞（没有消息了或者只有 Delay 的消息），会把 mBlocked这个变量标记为 true，在下一个 Message 进队时会判断这个message 的位置，如果在队首就会调用 nativeWake() 方法唤醒线程**
 
+### 9. IdleHandler : 线程阻塞时回调的接口
+
+public static interface IdleHandler {
+
+    //当消息队列没有消息时会回调这个方法，阻塞等待有消息进入
+    //返回 true 的话表示唤醒阻塞的线程，false 表示移除
+    //如果消息队列中有消息等待在将来执行，也会调用这个方法
+    boolean queueIdle();
+}
+
+MessageQueue 中提供了监听阻塞回调的注册和移除接口：
+
+public void addIdleHandler(@NonNull IdleHandler handler) {
+    if (handler == null) {
+        throw new NullPointerException("Can't add a null IdleHandler");
+    }
+    synchronized (this) {
+        mIdleHandlers.add(handler);
+    }
+}
+
+public void removeIdleHandler(@NonNull IdleHandler handler) {
+    synchronized (this) {
+        mIdleHandlers.remove(handler);
+    }
+}
+
+当消息队列阻塞时，会回调这些监听阻塞的观察者，告诉他们：我有空了！来找我玩啊！
+
+### 10. 
 
 ---
 
