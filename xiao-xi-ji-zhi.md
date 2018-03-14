@@ -336,6 +336,7 @@ Message next() {
         // Return here if the message loop has already quit and been disposed.
         // This can happen if the application tries to restart a looper after quit
         // which is not supported.
+        //如果消息的 looper 退出，就退出这个方法
         final long ptr = mPtr;
         if (ptr == 0) {
             return null;
@@ -343,7 +344,9 @@ Message next() {
 
         int pendingIdleHandlerCount = -1; // -1 only during first iteration
         int nextPollTimeoutMillis = 0;
+         //也是一个循环，有合适的消息就返回，没有就阻塞
         for (;;) {
+         //如果有需要过段时间再处理的消息，先调用 Binder 的这个方法
             if (nextPollTimeoutMillis != 0) {
                 Binder.flushPendingCommands();
             }
@@ -352,9 +355,12 @@ Message next() {
 
             synchronized (this) {
                 // Try to retrieve the next message.  Return if found.
+                //获取下一个消息
                 final long now = SystemClock.uptimeMillis();
                 Message prevMsg = null;
+                //当前链表的头结点
                 Message msg = mMessages;
+                //如果消息没有 target，那它就是一个屏障，需要一直往后遍历找到第一个异步的消息
                 if (msg != null && msg.target == null) {
                     // Stalled by a barrier.  Find the next asynchronous message in the queue.
                     do {
@@ -364,11 +370,15 @@ Message next() {
                 }
                 if (msg != null) {
                     if (now < msg.when) {
+                     //如果这个消息还没到处理时间，就设置个时间过段时间再处理
                         // Next message is not ready.  Set a timeout to wake up when it is ready.
                         nextPollTimeoutMillis = (int) Math.min(msg.when - now, Integer.MAX_VALUE);
                     } else {
+                    // 消息是正常的、可以立即处理的
                         // Got a message.
+                        //设置不再阻塞
                         mBlocked = false;
+                        //取出当前消息，链表头结点后移一位
                         if (prevMsg != null) {
                             prevMsg.next = msg.next;
                         } else {
