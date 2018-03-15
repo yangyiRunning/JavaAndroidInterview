@@ -468,6 +468,7 @@ public static interface IdleHandler {
 
 MessageQueue 中提供了监听阻塞回调的注册和移除接口：
 
+```
 public void addIdleHandler(@NonNull IdleHandler handler) {
     if (handler == null) {
         throw new NullPointerException("Can't add a null IdleHandler");
@@ -483,9 +484,31 @@ public void removeIdleHandler(@NonNull IdleHandler handler) {
     }
 }
 
-当消息队列阻塞时，会回调这些监听阻塞的观察者，告诉他们：我有空了！来找我玩啊！
 
-### 10. 
+```
+**当消息队列阻塞时，会回调这些监听阻塞的观察者**
+
+### 10. Looper
+
+Looper中的属性：
+
+```
+private static final String TAG = "Looper";
+
+    // sThreadLocal.get() will return null unless you've called prepare().
+    static final ThreadLocal<Looper> sThreadLocal = new ThreadLocal<Looper>();
+    private static Looper sMainLooper;  // guarded by Looper.class   主线程中的 Looepr
+
+    final MessageQueue mQueue; //与之关联的消息队列
+    final Thread mThread; //所在的线程
+
+    private Printer mLogging;
+    private long mTraceTag;
+```
+
+**创建Looper:Looper.prepare();**
+**开启死循环来调度MessageQueue中的消息：Looper.loop();**
+
 
 ---
 
