@@ -12,6 +12,7 @@
 ## Android
 
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+- [Android源码阅读](http://book2s.com/java/api/android.html)
 - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
 - [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/Android/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 - [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
