@@ -8,6 +8,7 @@
 - [反射](/Java/java-ji-zhu-zhi-fan-she.md)
 - [注解](/Java/javaji-zhu-zhi-zhu-jie.md)
 - [类加载机制](/Java/java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
+- [为什么说Java中只有值传递](https://mp.weixin.qq.com/s/F7Niaa7nD1tLApCEGKAj4A)
 
 ## Android
 
