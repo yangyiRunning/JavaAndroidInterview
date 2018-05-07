@@ -24,6 +24,7 @@
 - [消息机制](/Android/xiao-xi-ji-zhi.md)
 - [跨进程通讯机制(IPC)](http://mp.weixin.qq.com/s/c33fL_pNUTcxCKSy6Rf5cQ)
 - [Android 性能优化：多线程](http://blog.csdn.net/u011240877/article/details/53142177)
+- [多层嵌套后的 Fragment 懒加载实现](https://mp.weixin.qq.com/s/rfDZ7DIoK2_cUi3IEOrsXQ)
 
 ## 算法相关
 
