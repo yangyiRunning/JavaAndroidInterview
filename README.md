@@ -27,6 +27,7 @@
 - [多层嵌套后的 Fragment 懒加载实现](https://mp.weixin.qq.com/s/rfDZ7DIoK2_cUi3IEOrsXQ)
 - [Android官方架构组件Navigation：大巧不工的Fragment管理框架](https://mp.weixin.qq.com/s/c6_t3rdkeMjb-NeM5TS_4Q)
 - [详解 RxJava 的消息订阅和线程切换原理](https://mp.weixin.qq.com/s/GBGlttLgQA2XrMcRTUUTOw)
+- [让你明明白白的使用RecyclerView——SnapHelper详解](https://juejin.im/entry/59a3d67c51882524241a7045)
 
 ## 算法相关
 
