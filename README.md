@@ -10,6 +10,7 @@
 - [类加载机制](/Java/java-ji-zhu-zhi-lei-jia-zai-ji-zhi.md)
 - [为什么说Java中只有值传递](https://mp.weixin.qq.com/s/F7Niaa7nD1tLApCEGKAj4A)
 - [再有人问你Java内存模型是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/9_YV470yoWW5PX3uIMmoDQ)
+- [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
 
 ## Android
 
