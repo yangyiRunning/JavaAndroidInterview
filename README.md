@@ -30,6 +30,8 @@
 - [Android官方架构组件Navigation：大巧不工的Fragment管理框架](https://mp.weixin.qq.com/s/c6_t3rdkeMjb-NeM5TS_4Q)
 - [详解 RxJava 的消息订阅和线程切换原理](https://mp.weixin.qq.com/s/GBGlttLgQA2XrMcRTUUTOw)
 - [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)
+- [关于RecyclerView你知道的不知道的都在这了（上）](https://www.jianshu.com/p/aff499a5953c)
+- [关于RecyclerView你知道的不知道的都在这了（下）](https://www.jianshu.com/p/311df8be8633)
 
 ## 算法相关
 
