@@ -57,9 +57,11 @@
 
 - QRCode
   - [基于 zxing 的二维码扫描](https://mp.weixin.qq.com/s/nPZFBdPOt2KeTaPA877BsA)
-  - [Android 二维码的扫码功能实现（一）](https://blog.csdn.net/qq_34902522/article/details/78384661)
-  - [Android 基于Zxing的扫码功能实现（二）](https://blog.csdn.net/qq_34902522/article/details/78426077)
-  - [Android 基于Zxing扫码实现（三）、从相册选取二维码](https://blog.csdn.net/qq_34902522/article/details/78654731)
+  - [Google ZXing系列讲解(一)——导入AS](https://www.jianshu.com/p/85e0bdb8bd2c)
+  - [Google ZXing系列讲解(二)——生成WIFi二维码](https://www.jianshu.com/p/656d6f6f862e)
+  - [Google ZXing系列讲解(三)——ZXing 目录结构与主体流程](https://www.jianshu.com/p/de529919e4e9)
+  - [Google ZXing系列讲解(四)——ZXing 解决竖屏扫描问题](https://www.jianshu.com/p/b78a967e2ac7)
+  - [Google ZXing系列讲解(五)——ZXing 仿微信扫描UI](https://www.jianshu.com/p/cbc1239a9f6f)
 
 ## JVM
 
