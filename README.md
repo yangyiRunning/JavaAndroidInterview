@@ -53,6 +53,14 @@
 - [跳跃表](/数据结构/tiao-yue-biao.md)
 - [红黑树](/数据结构/hong-hei-shu.md)
 
+## Android项目基础设施
+
+- QRCode
+  - [基于 zxing 的二维码扫描](https://mp.weixin.qq.com/s/nPZFBdPOt2KeTaPA877BsA)
+  - [Android 二维码的扫码功能实现（一）](https://blog.csdn.net/qq_34902522/article/details/78384661)
+  - [Android 基于Zxing的扫码功能实现（二）](https://blog.csdn.net/qq_34902522/article/details/78426077)
+  - [Android 基于Zxing扫码实现（三）、从相册选取二维码](https://blog.csdn.net/qq_34902522/article/details/78654731)
+
 ## JVM
 
 #### 1. JVM执行分析
