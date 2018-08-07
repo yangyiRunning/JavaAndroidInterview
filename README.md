@@ -40,7 +40,7 @@
 - 排序
   - [什么是冒泡排序](https://mp.weixin.qq.com/s/wO11PDZSM5pQ0DfbQjKRQA)
   - [什么是鸡尾酒排序](https://mp.weixin.qq.com/s/tXqjWWyjQ1ILfvnFv3_f7Q)
-  - [漫画：什么是快速排序？（上）](https://mp.weixin.qq.com/s/wXvs98RGumzFHvQlC1dOeA)
+  - [什么是快速排序？（上）](https://mp.weixin.qq.com/s/wXvs98RGumzFHvQlC1dOeA)
 - [一致性哈希](/算法相关/yi-zhi-xing-ha-xi.md)
 - [如何判断链表有环](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189798&idx=1&sn=c35c259d0a4a26a2ee6205ad90d0b2e1&chksm=8c99047cbbee8d6a452fbb171133551553a825c83fb8b0cc66210dcda842c61157a07baaeb6b&scene=21#wechat_redirect)
 - [判断2的乘方](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190199&idx=1&sn=3d22e6bc95b66635dd6a36c5900ac401&chksm=8c990aedbbee83fb2ddbbc6f2ff932f2a1358b9882e42a142f80a60f6afd8373d495d07046e3&scene=21#wechat_redirect)
