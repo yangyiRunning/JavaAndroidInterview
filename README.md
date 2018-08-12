@@ -1,3 +1,5 @@
+![logo](/assets/WechatIMG6507.jpeg)
+
 ## Java豆知识
 
 - [synchronized和CAS的比较](/Java/cashe-synchronized-de-bi-jiao.md)
