@@ -13,6 +13,7 @@
 - [为什么说Java中只有值传递](https://mp.weixin.qq.com/s/F7Niaa7nD1tLApCEGKAj4A)
 - [再有人问你Java内存模型是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/9_YV470yoWW5PX3uIMmoDQ)
 - [再有人问你synchronized是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/tI_4nCIg1kkcf6_UW1aA5A)
+- [再有人问你volatile是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/jSDAHKHWogeNU41ZS-fUwA)
 - [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
 
 ## Android
@@ -42,7 +43,7 @@
 - 排序
   - [什么是冒泡排序](https://mp.weixin.qq.com/s/wO11PDZSM5pQ0DfbQjKRQA)
   - [什么是鸡尾酒排序](https://mp.weixin.qq.com/s/tXqjWWyjQ1ILfvnFv3_f7Q)
-  - [什么是快速排序？（上）](https://mp.weixin.qq.com/s/wXvs98RGumzFHvQlC1dOeA)
+  - [什么是快速排序](https://mp.weixin.qq.com/s/PQLC7qFjb74kt6PdExP8mw)
 - [一致性哈希](/算法相关/yi-zhi-xing-ha-xi.md)
 - [如何判断链表有环](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189798&idx=1&sn=c35c259d0a4a26a2ee6205ad90d0b2e1&chksm=8c99047cbbee8d6a452fbb171133551553a825c83fb8b0cc66210dcda842c61157a07baaeb6b&scene=21#wechat_redirect)
 - [判断2的乘方](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190199&idx=1&sn=3d22e6bc95b66635dd6a36c5900ac401&chksm=8c990aedbbee83fb2ddbbc6f2ff932f2a1358b9882e42a142f80a60f6afd8373d495d07046e3&scene=21#wechat_redirect)
