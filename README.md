@@ -15,6 +15,7 @@
 - [再有人问你synchronized是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/tI_4nCIg1kkcf6_UW1aA5A)
 - [再有人问你volatile是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/jSDAHKHWogeNU41ZS-fUwA)
 - [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
+- [给女朋友解释GC如何判断什么东西可以回收](https://mp.weixin.qq.com/s/9LjegZB-67jERy8n_40lhQ)
 
 ## Android
 
