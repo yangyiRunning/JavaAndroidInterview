@@ -1,4 +1,4 @@
-![logo](/assets/WechatIMG6507.jpeg)
+![logo](/assets/微信图片_20180816152622.png)
 
 ## Java豆知识
 
