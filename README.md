@@ -1,5 +1,4 @@
-<img style="margin: auto;" src="https://s1.ax1x.com/2018/08/16/PRqeN4.png">
-<div align="center"><img width="65" height="75" src="https://s1.ax1x.com/2018/08/16/PRqeN4.png"/></div>
+<div align="center"><img width="400" height="400" src="https://s1.ax1x.com/2018/08/16/PRLqw8.jpg"/></div>
 
 ## Java豆知识
 
