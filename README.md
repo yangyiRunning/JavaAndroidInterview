@@ -1,4 +1,4 @@
-![logo](/assets/微信图片_20180816152622.png)
+<div align=center>![logo](/assets/微信图片_20180816152622.png)</div>
 
 ## Java豆知识
 
