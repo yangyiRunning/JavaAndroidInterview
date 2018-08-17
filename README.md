@@ -38,6 +38,7 @@
 - [关于RecyclerView你知道的不知道的都在这了（上）](https://www.jianshu.com/p/aff499a5953c)
 - [关于RecyclerView你知道的不知道的都在这了（下）](https://www.jianshu.com/p/311df8be8633)
 - [Android 组件化最佳实践](https://mp.weixin.qq.com/s/ubihF5bDbofZfKTT-Ou2gw)
+- [用LiveDataBus替代RxBus、EventBus——Android消息总线的演进之路](https://juejin.im/post/5b5ac0825188251acd0f3777)
 
 ## 算法相关
 
