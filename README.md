@@ -24,6 +24,7 @@
 - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
 - [混合开发之Android Java原生代码和JavaScript脚本代码互调总结](/Android/hun-he-kai-fa-zhi-android-java-yuan-sheng-dai-ma-he-javascript-jiao-ben-dai-ma-hu-diao-zong-jie.md)
 - [LruCache和DiskLruCache](https://juejin.im/post/5a6da6e7f265da3e303cbcb6)
+- [LruCache缓存与DiskLruCache缓存](http://zsp.world/2017/11/22/Android%E7%AC%94%E8%AE%B0%EF%BC%9ALruCache%E7%BC%93%E5%AD%98/)
 - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](/Android/androidactivitythread.md)
 - [Android UI性能优化详解](http://mrpeak.cn/android/2016/01/11/android-performance-ui)
 - [Using ThreadPoolExecutor in Android](https://github.com/yangyiRunning/Java-bits)
