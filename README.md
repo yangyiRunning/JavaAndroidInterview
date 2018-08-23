@@ -16,6 +16,7 @@
 - [再有人问你volatile是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/jSDAHKHWogeNU41ZS-fUwA)
 - [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
 - [给女朋友解释GC如何判断什么东西可以回收](https://mp.weixin.qq.com/s/9LjegZB-67jERy8n_40lhQ)
+- [如何给女朋友解释什么是IO中的阻塞、非阻塞、同步、异步](https://mp.weixin.qq.com/s/Csi_ySQxoZ3YfpkkMwv9Ig)
 
 ## Android
 
