@@ -42,9 +42,11 @@
 - [Android 组件化最佳实践](https://mp.weixin.qq.com/s/ubihF5bDbofZfKTT-Ou2gw)
 - [用LiveDataBus替代RxBus、EventBus——Android消息总线的演进之路](https://juejin.im/post/5b5ac0825188251acd0f3777)
 - [内存模型是怎么解决缓存一致性的](https://mp.weixin.qq.com/s/A1Tz980y7hdG_Q14vDjJLg)
+- [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/PohBYeCTzYGQUQ6IivsfwQ)
 
 ## 算法相关
 
+- [什么是时间复杂度](https://mp.weixin.qq.com/s/1rYK3urLuun5WqnibJ2t3g)
 - 排序
   - [冒泡排序](https://mp.weixin.qq.com/s/wO11PDZSM5pQ0DfbQjKRQA)
   - [鸡尾酒排序](https://mp.weixin.qq.com/s/tXqjWWyjQ1ILfvnFv3_f7Q)
