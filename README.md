@@ -18,6 +18,7 @@
 - [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
 - [给女朋友解释GC如何判断什么东西可以回收](https://mp.weixin.qq.com/s/9LjegZB-67jERy8n_40lhQ)
 - [如何给女朋友解释什么是IO中的阻塞、非阻塞、同步、异步](https://mp.weixin.qq.com/s/Csi_ySQxoZ3YfpkkMwv9Ig)
+- [内存模型是怎么解决缓存一致性的](https://mp.weixin.qq.com/s/A1Tz980y7hdG_Q14vDjJLg)
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/PohBYeCTzYGQUQ6IivsfwQ)
 
 ## Android
@@ -43,7 +44,6 @@
 - [关于RecyclerView你知道的不知道的都在这了（下）](https://www.jianshu.com/p/311df8be8633)
 - [Android 组件化最佳实践](https://mp.weixin.qq.com/s/ubihF5bDbofZfKTT-Ou2gw)
 - [用LiveDataBus替代RxBus、EventBus——Android消息总线的演进之路](https://juejin.im/post/5b5ac0825188251acd0f3777)
-- [内存模型是怎么解决缓存一致性的](https://mp.weixin.qq.com/s/A1Tz980y7hdG_Q14vDjJLg)
 
 ## 算法相关
 
