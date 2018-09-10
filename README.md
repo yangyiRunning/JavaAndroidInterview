@@ -21,11 +21,8 @@
 - [内存模型是怎么解决缓存一致性的](https://mp.weixin.qq.com/s/A1Tz980y7hdG_Q14vDjJLg)
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/PohBYeCTzYGQUQ6IivsfwQ)
 - [深入理解Java虚拟机的类加载机制](https://mp.weixin.qq.com/s?__biz=MzU3OTYxOTU4NA==&mid=2247483769&idx=1&sn=5cff3eeabce844c4c066e34d06966e07&chksm=fd621f16ca159600ba38d85b414a2c752a8257af0931f126a353993499df3270d0c79e9bc3a8&scene=21#wechat_redirect)
-<<<<<<< Updated upstream
 - [一文读懂什么是Java中的自动拆装箱](https://mp.weixin.qq.com/s/m3CC95TtlMjoxyfYIhaB4Q)
-=======
 - [Java并发编程包中atomic的实现原理](https://mp.weixin.qq.com/s/aw6OXC9wkxH42rCywNd7yQ)
->>>>>>> Stashed changes
 
 ## Android
 
