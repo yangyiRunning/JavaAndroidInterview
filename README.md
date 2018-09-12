@@ -24,6 +24,8 @@
 - [深入理解Java虚拟机的类加载机制](https://mp.weixin.qq.com/s?__biz=MzU3OTYxOTU4NA==&mid=2247483769&idx=1&sn=5cff3eeabce844c4c066e34d06966e07&chksm=fd621f16ca159600ba38d85b414a2c752a8257af0931f126a353993499df3270d0c79e9bc3a8&scene=21#wechat_redirect)
 - [一文读懂什么是Java中的自动拆装箱](https://mp.weixin.qq.com/s/m3CC95TtlMjoxyfYIhaB4Q)
 - [Java并发编程包中atomic的实现原理](https://mp.weixin.qq.com/s/aw6OXC9wkxH42rCywNd7yQ)
+- [Java 垃圾回收机制，了解一下](https://mp.weixin.qq.com/s/Iy5A40aCOk_el5MCA52TLw)
+- [Java开发必会的Linux命令](https://mp.weixin.qq.com/s/il4WKeq-4ltBRO9Jev6n3A)
 
 ## Android
 
