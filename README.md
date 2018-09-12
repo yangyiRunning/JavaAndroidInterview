@@ -18,6 +18,7 @@
 - [我终于搞清楚了和String有关的那点事儿](https://mp.weixin.qq.com/s/VBFDIHhPg0MJ-L9DpzbiWw)
 - [给女朋友解释GC如何判断什么东西可以回收](https://mp.weixin.qq.com/s/9LjegZB-67jERy8n_40lhQ)
 - [如何给女朋友解释什么是IO中的阻塞、非阻塞、同步、异步](https://mp.weixin.qq.com/s/Csi_ySQxoZ3YfpkkMwv9Ig)
+- [漫话：如何给女朋友介绍什么是死锁](https://mp.weixin.qq.com/s/jy-ApwuFRDgiyRBgD00A6w)
 - [内存模型是怎么解决缓存一致性的](https://mp.weixin.qq.com/s/A1Tz980y7hdG_Q14vDjJLg)
 - [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/PohBYeCTzYGQUQ6IivsfwQ)
 - [深入理解Java虚拟机的类加载机制](https://mp.weixin.qq.com/s?__biz=MzU3OTYxOTU4NA==&mid=2247483769&idx=1&sn=5cff3eeabce844c4c066e34d06966e07&chksm=fd621f16ca159600ba38d85b414a2c752a8257af0931f126a353993499df3270d0c79e9bc3a8&scene=21#wechat_redirect)
