@@ -26,6 +26,7 @@
 - [Java并发编程包中atomic的实现原理](https://mp.weixin.qq.com/s/aw6OXC9wkxH42rCywNd7yQ)
 - [Java 垃圾回收机制，了解一下](https://mp.weixin.qq.com/s/Iy5A40aCOk_el5MCA52TLw)
 - [Java开发必会的Linux命令](https://mp.weixin.qq.com/s/il4WKeq-4ltBRO9Jev6n3A)
+- [彻底理解HashMap的元素插入原理](https://mp.weixin.qq.com/s/DfAoqmjh2tt5nZaUc8Dxwg)
 
 ## Android
 
