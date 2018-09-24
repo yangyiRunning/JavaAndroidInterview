@@ -80,6 +80,7 @@
 - [平衡树](/数据结构/ping-heng-shu.md)
 - [跳跃表](/数据结构/tiao-yue-biao.md)
 - [红黑树](/数据结构/hong-hei-shu.md)
+- [优先队列](https://mp.weixin.qq.com/s/4hXBw7sZ-NKs_asOQxS7gA)
 
 ## Android项目基础设施
 
