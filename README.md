@@ -54,8 +54,8 @@
 - [Android 组件化最佳实践](https://mp.weixin.qq.com/s/ubihF5bDbofZfKTT-Ou2gw)
 - [用LiveDataBus替代RxBus、EventBus——Android消息总线的演进之路](https://juejin.im/post/5b5ac0825188251acd0f3777)
 - [Android 你不能忽略的代码命名规范](https://mp.weixin.qq.com/s/JJWBZRwiojJZq9mfiyZe2A)
-- Flutter
-  - [与Flutter第一次亲密接触-Android 视角](https://juejin.im/post/5b8d46c3e51d4538e710bc78)
+- [知乎Android客户端组件化实践](https://zhuanlan.zhihu.com/p/45374964)
+- [你的APP为何启动那么慢](https://mp.weixin.qq.com/s/i0Qkp8rZ_IfmVEoWSxvpdw)
 
 ## 算法相关
 
