@@ -29,6 +29,7 @@
 - [彻底理解HashMap的元素插入原理](https://mp.weixin.qq.com/s/DfAoqmjh2tt5nZaUc8Dxwg)
 - [一文带你理解Java中Lock的实现原理](https://mp.weixin.qq.com/s/ktTOXAOxQ9k1GD4NUkaI0g)
 - [如何给女朋友解释什么是共享锁和排他锁](https://mp.weixin.qq.com/s/O3c4ViztaDntkZAoqIwppQ)
+- [深入源码分析Java线程池的实现原理](https://mp.weixin.qq.com/s/-89-CcDnSLBYy3THmcLEdQ)
 
 ## Android
 
