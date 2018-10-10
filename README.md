@@ -151,6 +151,12 @@
 - [数字](/计算机组成原理/shu-zi.md)
 - [CPU](/计算机组成原理/cpu.md)
 
+## 职业路径
+
+- [薪酬翻倍一时爽，小心落入「高薪陷阱」](https://mp.weixin.qq.com/s/nrg0BfoaWbbXChYhteFuPg)
+- [程序员生存图鉴：接私活、创业、自由职业，哪种才是理想工作？](https://mp.weixin.qq.com/s/N3FBY2_n0Nl36NaCkst5CA)
+- [中国互联网办公地变迁史：你的公司为什么也搬家了？](https://mp.weixin.qq.com/s/R5YXrPlYtyk2BGRZ1pb6nQ)
+
 ---
 
 **附录：** [各类技术栈编程参考书（英文）](http://goalkicker.com/)
