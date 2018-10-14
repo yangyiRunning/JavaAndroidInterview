@@ -59,6 +59,7 @@
 - [Android 你不能忽略的代码命名规范](https://mp.weixin.qq.com/s/JJWBZRwiojJZq9mfiyZe2A)
 - [知乎Android客户端组件化实践](https://zhuanlan.zhihu.com/p/45374964)
 - [你的APP为何启动那么慢](https://mp.weixin.qq.com/s/i0Qkp8rZ_IfmVEoWSxvpdw)
+- [Android项目开发之组件化知多少](https://mp.weixin.qq.com/s/-gC8JpmmCZWzcOsH5ZzLtQ)
 
 ## 算法相关
 
