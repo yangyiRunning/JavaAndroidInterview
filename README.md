@@ -50,7 +50,9 @@
 - [Android 性能优化：多线程](http://blog.csdn.net/u011240877/article/details/53142177)
 - [多层嵌套后的 Fragment 懒加载实现](https://mp.weixin.qq.com/s/rfDZ7DIoK2_cUi3IEOrsXQ)
 - [Android官方架构组件Navigation：大巧不工的Fragment管理框架](https://mp.weixin.qq.com/s/c6_t3rdkeMjb-NeM5TS_4Q)
-- [详解 RxJava 的消息订阅和线程切换原理](https://mp.weixin.qq.com/s/GBGlttLgQA2XrMcRTUUTOw)
+- RxJava
+  - [详解 RxJava 的消息订阅和线程切换原理](https://mp.weixin.qq.com/s/GBGlttLgQA2XrMcRTUUTOw)
+  - [Android RxJava2 大宝剑，骚年你敢接吗](https://mp.weixin.qq.com/s/P46bfEwcpThx6DRUEqHIWw)
 - [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)
 - [关于RecyclerView你知道的不知道的都在这了（上）](https://www.jianshu.com/p/aff499a5953c)
 - [关于RecyclerView你知道的不知道的都在这了（下）](https://www.jianshu.com/p/311df8be8633)
@@ -72,6 +74,7 @@
   - [快速排序](https://mp.weixin.qq.com/s/PQLC7qFjb74kt6PdExP8mw)
   - [堆排序](https://mp.weixin.qq.com/s/8Bid1naBLtEjPoP-R4HkBg)
   - [计数排序](https://mp.weixin.qq.com/s/WGqndkwLlzyVOHOdGK7X4Q)
+  - [桶排序](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
 - [一致性哈希](/算法相关/yi-zhi-xing-ha-xi.md)
 - [如何判断链表有环](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189798&idx=1&sn=c35c259d0a4a26a2ee6205ad90d0b2e1&chksm=8c99047cbbee8d6a452fbb171133551553a825c83fb8b0cc66210dcda842c61157a07baaeb6b&scene=21#wechat_redirect)
 - [判断2的乘方](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190199&idx=1&sn=3d22e6bc95b66635dd6a36c5900ac401&chksm=8c990aedbbee83fb2ddbbc6f2ff932f2a1358b9882e42a142f80a60f6afd8373d495d07046e3&scene=21#wechat_redirect)
@@ -139,6 +142,7 @@
 ## 网络传输
 
 - [TCP/IP](https://mp.weixin.qq.com/s/33FK5IuGq2da-O1xgS1AKA)
+- [HTTPS 原理浅析及其在 Android 中的使用](https://mp.weixin.qq.com/s/-qqr8iB_VgAcDkD6_rewfg)
 
 ## 正则表达式
 
