@@ -32,6 +32,7 @@
 - [深入源码分析Java线程池的实现原理](https://mp.weixin.qq.com/s/-89-CcDnSLBYy3THmcLEdQ)
 - [彻底理解JVM常考题之分级引用模型](https://mp.weixin.qq.com/s/gA7nZtmvgbNgdP5QipcYJQ)
 - [由浅入深看synchronized的底层实现原理](https://mp.weixin.qq.com/s/kQMKT1arpTeHcb7pQmqBDQ)
+- [好好说说Java中的常量池之Class常量池](https://mp.weixin.qq.com/s/hYQPN9Ha8jjQ2WyD5rYKaA)
 
 ## Android
 
