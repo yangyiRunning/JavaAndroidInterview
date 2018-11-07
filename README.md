@@ -30,10 +30,11 @@
 - [一文带你理解Java中Lock的实现原理](https://mp.weixin.qq.com/s/ktTOXAOxQ9k1GD4NUkaI0g)
 - [如何给女朋友解释什么是共享锁和排他锁](https://mp.weixin.qq.com/s/O3c4ViztaDntkZAoqIwppQ)
 - [深入源码分析Java线程池的实现原理](https://mp.weixin.qq.com/s/-89-CcDnSLBYy3THmcLEdQ)
+- [Java中线程池，你真的会用吗](https://mp.weixin.qq.com/s/zFBXJEaQ2s3dvNwYLz_MRA)
 - [彻底理解JVM常考题之分级引用模型](https://mp.weixin.qq.com/s/gA7nZtmvgbNgdP5QipcYJQ)
 - [由浅入深看synchronized的底层实现原理](https://mp.weixin.qq.com/s/kQMKT1arpTeHcb7pQmqBDQ)
 - [好好说说Java中的常量池之Class常量池](https://mp.weixin.qq.com/s/hYQPN9Ha8jjQ2WyD5rYKaA)
-- [Java中线程池，你真的会用吗](https://mp.weixin.qq.com/s/zFBXJEaQ2s3dvNwYLz_MRA)
+- [如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/C3oWOh9EFykAWK0GgUE7Ww)
 
 ## Android
 
