@@ -66,6 +66,7 @@
 - [你的APP为何启动那么慢](https://mp.weixin.qq.com/s/i0Qkp8rZ_IfmVEoWSxvpdw)
 - [Android项目开发之组件化知多少](https://mp.weixin.qq.com/s/-gC8JpmmCZWzcOsH5ZzLtQ)
 - [WebView爬坑，看这篇就够了](https://mp.weixin.qq.com/s/HFUXbJwqp6hC7Bb8wR0Svw)
+- [微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)
 
 ## 算法相关
 
@@ -80,6 +81,7 @@
   - [堆排序](https://mp.weixin.qq.com/s/8Bid1naBLtEjPoP-R4HkBg)
   - [计数排序](https://mp.weixin.qq.com/s/WGqndkwLlzyVOHOdGK7X4Q)
   - [桶排序](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
+- [如何实现大整数相加](https://mp.weixin.qq.com/s/GXclPfm_L2kIGAjgLSPX5g)
 - [什么是LRU算法](https://mp.weixin.qq.com/s/h_Ns5HY27NmL_odCYLgx_Q)
 - [一致性哈希](/算法相关/yi-zhi-xing-ha-xi.md)
 - [如何判断链表有环](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653189798&idx=1&sn=c35c259d0a4a26a2ee6205ad90d0b2e1&chksm=8c99047cbbee8d6a452fbb171133551553a825c83fb8b0cc66210dcda842c61157a07baaeb6b&scene=21#wechat_redirect)
