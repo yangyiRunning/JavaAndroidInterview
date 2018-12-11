@@ -35,6 +35,7 @@
 - [由浅入深看synchronized的底层实现原理](https://mp.weixin.qq.com/s/kQMKT1arpTeHcb7pQmqBDQ)
 - [好好说说Java中的常量池之Class常量池](https://mp.weixin.qq.com/s/hYQPN9Ha8jjQ2WyD5rYKaA)
 - [如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/C3oWOh9EFykAWK0GgUE7Ww)
+- [Java中枚举的线程安全性及序列化问题](https://mp.weixin.qq.com/s/j9js5s2ZwkzywyOs4O6eGA)
 
 ## Android
 
@@ -173,6 +174,7 @@
 - [程序员生存图鉴：接私活、创业、自由职业，哪种才是理想工作？](https://mp.weixin.qq.com/s/N3FBY2_n0Nl36NaCkst5CA)
 - [中国互联网办公地变迁史：你的公司为什么也搬家了？](https://mp.weixin.qq.com/s/R5YXrPlYtyk2BGRZ1pb6nQ)
 - [互联网人年底加薪指南](https://mp.weixin.qq.com/s/N6KuWHHVsjIdlDbTiTC-vQ)
+- [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)
 
 ---
 
