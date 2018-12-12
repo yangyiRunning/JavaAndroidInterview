@@ -175,6 +175,7 @@
 - [中国互联网办公地变迁史：你的公司为什么也搬家了？](https://mp.weixin.qq.com/s/R5YXrPlYtyk2BGRZ1pb6nQ)
 - [互联网人年底加薪指南](https://mp.weixin.qq.com/s/N6KuWHHVsjIdlDbTiTC-vQ)
 - [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)
+- [敲代码这么多年，依然写不好这一页简历](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)
 
 ---
 
