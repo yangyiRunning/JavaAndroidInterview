@@ -72,6 +72,7 @@
 
 ## 算法相关
 
+- [计算机算法基础总结](https://mp.weixin.qq.com/s/IASVo3QpX6ZCRdOsRZtSbA)
 - [什么是时间复杂度](https://mp.weixin.qq.com/s/1rYK3urLuun5WqnibJ2t3g)
 - [拜托，面试别再问我时间复杂度了](https://mp.weixin.qq.com/s/yfzrFYn0Dogy0HkN5XAS0Q)
 - [什么是二叉堆](https://mp.weixin.qq.com/s/cq2EhVtOTzTVpNpLDXfeJg)
