@@ -39,6 +39,7 @@
 
 ## Android
 
+- [贝塞尔曲线开发的艺术](https://blog.csdn.net/eclipsexys/article/details/51956908)
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 - [Android源码阅读](http://book2s.com/java/api/android.html)
 - [Android插件化技术——原理篇](https://mp.weixin.qq.com/s/Uwr6Rimc7Gpnq4wMFZSAag)
