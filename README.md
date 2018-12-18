@@ -36,6 +36,7 @@
 - [好好说说Java中的常量池之Class常量池](https://mp.weixin.qq.com/s/hYQPN9Ha8jjQ2WyD5rYKaA)
 - [如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/C3oWOh9EFykAWK0GgUE7Ww)
 - [Java中枚举的线程安全性及序列化问题](https://mp.weixin.qq.com/s/j9js5s2ZwkzywyOs4O6eGA)
+- [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://mp.weixin.qq.com/s/zbQVWhngcwd2MfzX8WDu3Q)
 
 ## Android
 
@@ -170,7 +171,7 @@
 - [数字](/计算机组成原理/shu-zi.md)
 - [CPU](/计算机组成原理/cpu.md)
 
-## 职业路径
+## 言职
 
 - [薪酬翻倍一时爽，小心落入「高薪陷阱」](https://mp.weixin.qq.com/s/nrg0BfoaWbbXChYhteFuPg)
 - [程序员生存图鉴：接私活、创业、自由职业，哪种才是理想工作？](https://mp.weixin.qq.com/s/N3FBY2_n0Nl36NaCkst5CA)
