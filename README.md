@@ -71,6 +71,7 @@
 - [WebView爬坑，看这篇就够了](https://mp.weixin.qq.com/s/HFUXbJwqp6hC7Bb8wR0Svw)
 - [微信 Android 终端内存优化实践](https://mp.weixin.qq.com/s/KtGfi5th-4YHOZsEmTOsjg)
 - [网易考拉 Android 通知栏适配全方案](https://mp.weixin.qq.com/s/9coNqOpeLJgys1rB4UI0-A)
+- [仿豆瓣弹性滑动控件](https://mp.weixin.qq.com/s/pUmW66mfisH1QCLRyJ9qTg)
 
 ## 算法相关
 
