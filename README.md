@@ -37,6 +37,7 @@
 - [如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/C3oWOh9EFykAWK0GgUE7Ww)
 - [Java中枚举的线程安全性及序列化问题](https://mp.weixin.qq.com/s/j9js5s2ZwkzywyOs4O6eGA)
 - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://mp.weixin.qq.com/s/zbQVWhngcwd2MfzX8WDu3Q)
+- [这才是Thread Local的正确原理与适用场景](https://mp.weixin.qq.com/s/SebbO7p2uJHUKQO0Fc6uXQ)
 
 ## Android
 
