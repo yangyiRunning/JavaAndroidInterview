@@ -1,5 +1,9 @@
 <div align="center"><img width="400" height="400" src="https://s1.ax1x.com/2018/08/16/PRLqw8.jpg"/></div>
 
+---
+
+这是一个JavaSE、Android领域的豆知识tips，内容主要来源于行业内一大批高质量的优秀公众号，如Hollis、程序员小灰、漫画编程等公号翘楚，以及本人平常收集的一些开源问答、课程、社区文章等。感兴趣的可以点击文件中的原文链接查看。
+
 ## Java豆知识
 
 - [synchronized和CAS的比较](/Java/cashe-synchronized-de-bi-jiao.md)
