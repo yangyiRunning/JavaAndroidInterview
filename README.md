@@ -45,6 +45,7 @@
 
 ## Android
 
+- [Android开发技能知识点指南](https://www.kancloud.cn/yumufeng/get-android-offer/183777)
 - [贝塞尔曲线开发的艺术](https://blog.csdn.net/eclipsexys/article/details/51956908)
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 - [Android源码阅读](http://book2s.com/java/api/android.html)
