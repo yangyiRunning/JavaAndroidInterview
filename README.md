@@ -186,6 +186,7 @@
 - [互联网人年底加薪指南](https://mp.weixin.qq.com/s/N6KuWHHVsjIdlDbTiTC-vQ)
 - [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)
 - [敲代码这么多年，依然写不好这一页简历](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)
+- [Java人才市场年度盘点：转折与终局](https://mp.weixin.qq.com/s/1eID_v3632uj520PhTsqZA)
 
 ---
 
