@@ -79,6 +79,7 @@
 - [网易考拉 Android 通知栏适配全方案](https://mp.weixin.qq.com/s/9coNqOpeLJgys1rB4UI0-A)
 - [仿豆瓣弹性滑动控件](https://mp.weixin.qq.com/s/pUmW66mfisH1QCLRyJ9qTg)
 - [爱奇艺Android客户端启动优化与分析](https://mp.weixin.qq.com/s/I394k1d7hUyy8VLhaq1mbA)
+- [成熟的 Git 分支模型](https://mp.weixin.qq.com/s/hPsg8LZa6McLYeriosY7Ig)
 
 ## 算法相关
 
