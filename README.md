@@ -173,6 +173,7 @@
 ## Git
 
 - [常用Git命令清单](https://mp.weixin.qq.com/s/SFSbjUEqhLUB2gHIruv_YQ)
+- [成熟的 Git 分支模型](https://mp.weixin.qq.com/s/hPsg8LZa6McLYeriosY7Ig)
 
 ## 计算机组成原理(正在填补中……)
 
