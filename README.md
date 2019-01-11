@@ -190,6 +190,7 @@
 - [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)
 - [敲代码这么多年，依然写不好这一页简历](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)
 - [Java人才市场年度盘点：转折与终局](https://mp.weixin.qq.com/s/1eID_v3632uj520PhTsqZA)
+- [互联网年度薪资报告:高开低走,屯粮过冬](https://mp.weixin.qq.com/s/8UigAgQm-an7ZZPUwBr7Mg)
 
 ---
 
