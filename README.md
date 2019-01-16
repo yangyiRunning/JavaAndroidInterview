@@ -192,6 +192,7 @@
 - [敲代码这么多年，依然写不好这一页简历](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)
 - [Java人才市场年度盘点：转折与终局](https://mp.weixin.qq.com/s/1eID_v3632uj520PhTsqZA)
 - [互联网年度薪资报告:高开低走,屯粮过冬](https://mp.weixin.qq.com/s/8UigAgQm-an7ZZPUwBr7Mg)
+- [2018年移动端：上半场有多辉煌，下半场就有多迷茫（文末彩蛋）](https://mp.weixin.qq.com/s/q73euW6r8--OrdgFp03yNw)
 
 ---
 
