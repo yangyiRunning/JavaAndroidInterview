@@ -43,6 +43,7 @@
 - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名](https://mp.weixin.qq.com/s/zbQVWhngcwd2MfzX8WDu3Q)
 - [这才是Thread Local的正确原理与适用场景](https://mp.weixin.qq.com/s/SebbO7p2uJHUKQO0Fc6uXQ)
 - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/Zs8en3T8TxCMbxGWHkDwBw)
+- [2018全年Java核心基础问题汇总](https://mp.weixin.qq.com/s/yKCUlvaL9GwgpvSjBtvihQ)
 
 ## Android
 
@@ -166,6 +167,7 @@
 
 - [TCP/IP](https://mp.weixin.qq.com/s/33FK5IuGq2da-O1xgS1AKA)
 - [HTTPS 原理浅析及其在 Android 中的使用](https://mp.weixin.qq.com/s/-qqr8iB_VgAcDkD6_rewfg)
+- [HTTPS 如何保证数据传输的安全性？](https://mp.weixin.qq.com/s/bca_BV5fpW3U0laxD6qOOw)
 
 ## 正则表达式
 
