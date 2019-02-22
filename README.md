@@ -81,6 +81,7 @@
 - [网易考拉 Android 通知栏适配全方案](https://mp.weixin.qq.com/s/9coNqOpeLJgys1rB4UI0-A)
 - [仿豆瓣弹性滑动控件](https://mp.weixin.qq.com/s/pUmW66mfisH1QCLRyJ9qTg)
 - [爱奇艺Android客户端启动优化与分析](https://mp.weixin.qq.com/s/I394k1d7hUyy8VLhaq1mbA)
+- [新架构组件:WorkManager](https://juejin.im/post/5af4aa91f265da0b8d41f714)
 
 ## 算法相关
 
