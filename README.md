@@ -82,6 +82,7 @@
 - [仿豆瓣弹性滑动控件](https://mp.weixin.qq.com/s/pUmW66mfisH1QCLRyJ9qTg)
 - [爱奇艺Android客户端启动优化与分析](https://mp.weixin.qq.com/s/I394k1d7hUyy8VLhaq1mbA)
 - [新架构组件:WorkManager](https://juejin.im/post/5af4aa91f265da0b8d41f714)
+- [杂谈Android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
 
 ## 算法相关
 
