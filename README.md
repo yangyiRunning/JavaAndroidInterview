@@ -83,6 +83,7 @@
 - [爱奇艺Android客户端启动优化与分析](https://mp.weixin.qq.com/s/I394k1d7hUyy8VLhaq1mbA)
 - [新架构组件:WorkManager](https://juejin.im/post/5af4aa91f265da0b8d41f714)
 - [杂谈Android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
+- [Android RxJava：图解不一样的诠释](https://mp.weixin.qq.com/s/y5MoMLsfqXm6NS4PSVBb3Q)
 
 ## 算法相关
 
