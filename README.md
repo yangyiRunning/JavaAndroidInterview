@@ -84,6 +84,7 @@
 - [新架构组件:WorkManager](https://juejin.im/post/5af4aa91f265da0b8d41f714)
 - [杂谈Android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
 - [Android RxJava：图解不一样的诠释](https://mp.weixin.qq.com/s/y5MoMLsfqXm6NS4PSVBb3Q)
+- [Retrofit2源码解析](https://www.jianshu.com/p/c1a3a881a144)
 
 ## 算法相关
 
@@ -171,6 +172,8 @@
 - [TCP/IP](https://mp.weixin.qq.com/s/33FK5IuGq2da-O1xgS1AKA)
 - [HTTPS 原理浅析及其在 Android 中的使用](https://mp.weixin.qq.com/s/-qqr8iB_VgAcDkD6_rewfg)
 - [HTTPS 如何保证数据传输的安全性？](https://mp.weixin.qq.com/s/bca_BV5fpW3U0laxD6qOOw)
+- [什么是HTTPS协议？](https://mp.weixin.qq.com/s/1ojSrhc9LZV8zlX6YblMtA)
+- [HTTP缓存控制小结](https://imweb.io/topic/5795dcb6fb312541492eda8c)
 
 ## 正则表达式
 
