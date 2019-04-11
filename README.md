@@ -174,6 +174,7 @@
 - [HTTPS 如何保证数据传输的安全性？](https://mp.weixin.qq.com/s/bca_BV5fpW3U0laxD6qOOw)
 - [什么是HTTPS协议？](https://mp.weixin.qq.com/s/1ojSrhc9LZV8zlX6YblMtA)
 - [HTTP缓存控制小结](https://imweb.io/topic/5795dcb6fb312541492eda8c)
+- [彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法](https://mp.weixin.qq.com/s/qOMO0LIdA47j3RjhbCWUEQ)
 
 ## 正则表达式
 
