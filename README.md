@@ -85,6 +85,7 @@
 - [杂谈Android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
 - [Android RxJava：图解不一样的诠释](https://mp.weixin.qq.com/s/y5MoMLsfqXm6NS4PSVBb3Q)
 - [Retrofit2源码解析](https://www.jianshu.com/p/c1a3a881a144)
+- [Binder系列](http://gityuan.com/2015/10/31/binder-prepare/)
 
 ## 算法相关
 
