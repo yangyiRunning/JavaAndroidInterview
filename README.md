@@ -44,6 +44,7 @@
 - [这才是Thread Local的正确原理与适用场景](https://mp.weixin.qq.com/s/SebbO7p2uJHUKQO0Fc6uXQ)
 - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/Zs8en3T8TxCMbxGWHkDwBw)
 - [2018全年Java核心基础问题汇总](https://mp.weixin.qq.com/s/yKCUlvaL9GwgpvSjBtvihQ)
+- [equals()与hashCode()方法详解](https://www.cnblogs.com/Qian123/p/5703507.html)
 
 ## Android
 
