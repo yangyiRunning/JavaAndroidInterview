@@ -88,6 +88,7 @@
 - [Retrofit2源码解析](https://www.jianshu.com/p/c1a3a881a144)
 - [Binder系列](http://gityuan.com/2015/10/31/binder-prepare/)
 - [深入Android大图片处理机制](https://www.jianshu.com/p/1f008671fa44)
+- [Android MVVM架构分析](https://blog.csdn.net/user11223344abc/article/details/82661128)
 
 ## 算法相关
 
