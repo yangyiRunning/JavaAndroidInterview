@@ -207,6 +207,7 @@
 - [互联网年度薪资报告:高开低走,屯粮过冬](https://mp.weixin.qq.com/s/8UigAgQm-an7ZZPUwBr7Mg)
 - [2018年移动端：上半场有多辉煌，下半场就有多迷茫（文末彩蛋）](https://mp.weixin.qq.com/s/q73euW6r8--OrdgFp03yNw)
 - [前端年度跳槽薪资报告：风平浪静下的暗流](https://mp.weixin.qq.com/s/_7Iyb0eo05JSsrsntf1vxQ)
+- [HR带你见招拆招：这些年，老程序猿面试遇到的坑](https://mp.weixin.qq.com/s/LGranvW9nKV5L3GklfIq4g)
 
 ---
 
