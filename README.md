@@ -134,6 +134,25 @@
   - [Google ZXing系列讲解(五)——ZXing 仿微信扫描UI](https://www.jianshu.com/p/cbc1239a9f6f)
   - [二维码生成](https://www.jianshu.com/p/b275e818de6a)
 
+- Jenkins奇技淫巧系列
+  - [Jenkins奇技淫巧 — 安装篇(mac)](https://www.jianshu.com/p/5e7a08f06b85)
+  - [Jenkins奇技淫巧 — 配置篇](https://www.jianshu.com/p/6632b47d6ab0)
+  - [Jenkins奇技淫巧 — 安全篇](https://www.jianshu.com/p/e52dc377a4dd)
+  - [Jenkins奇技淫巧 — 发送邮件篇](https://www.jianshu.com/p/f9c19c3077b7)
+  - [Jenkins奇技淫巧 — 全局变量篇](https://www.jianshu.com/p/37dce9d1e10b)
+  - [Jenkins奇技淫巧 — 新建任务篇](https://www.jianshu.com/p/b51876bfb01c)
+  - [Jenkins奇技淫巧 — 插件篇](https://www.jianshu.com/p/7833e3aabf73)
+  - [Jenkins奇技淫巧 — 问题篇](https://www.jianshu.com/p/a0d2fdd4c4bf)
+  - [Jenkins奇技淫巧 — 命令篇](https://www.jianshu.com/p/1efbc077adf7)
+  - [Jenkins奇技淫巧 — 环境配置篇(Android自动化构建)](https://www.jianshu.com/p/32a8867a91fc)
+  - [Jenkins奇技淫巧 — 参数化构建篇(Android自动化构建)](https://www.jianshu.com/p/868be080537d)
+  - [Jenkins奇技淫巧 — 第一次实战篇(Android自动化构建)](https://www.jianshu.com/p/11354cc3e255)
+  - [Jenkins奇技淫巧 — Python打包篇(Android自动化构建)](https://www.jianshu.com/p/302b76167c65)
+  - [Jenkins奇技淫巧 — Python发送邮件和上传蒲公英(Android自动化构建)](https://www.jianshu.com/p/6079d3645809)
+  - [Jenkins奇技淫巧 — 乐固,多渠道打包篇(Android自动化构建)](https://www.jianshu.com/p/894f2102d8ae)
+  - [Jenkins奇技淫巧 — 节点管理篇](https://www.jianshu.com/p/2c5b19f587c2)
+  - [Jenkins奇技淫巧 — 优秀文章篇](https://www.jianshu.com/p/72c05e5fbc3e)
+
 ## JVM
 
 #### 1. JVM执行分析
