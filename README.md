@@ -161,6 +161,7 @@
 
 #### 1. JVM执行分析
 
+ - [咱们从头到尾说一次 Java 垃圾回收](https://mp.weixin.qq.com/s/aA1eDYIUHuIfigTw2ffouw)
  - [Java运行流程](/JVM/javanei-cun-mo-xing.md)
  - [Java对象访问模式](/JVM/javadui-xiang-fang-wen-mo-shi.md)
 
